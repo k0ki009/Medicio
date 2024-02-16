@@ -110,8 +110,33 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
+          <li class="dropdown"><a href="#"><span>Specialization</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Anesthesiology</a></li>           
+              <li><a href="#">Ear, Nose, & Throat (ENT)</a></li>
+              <li><a href="#">Family Medicine</a></li>
+              <li><a href="#">General Surgery</a></li> 
+              <li><a href="#">Internal Medicine</a></li> 
+              <li><a href="#">Neonatology</a></li> 
+              <li><a href="#">Nephrology</a></li> 
+              <li><a href="#">Occupational Medicine</a></li> 
+              <li><a href="#">Ophthalmology</a></li> 
+              <li><a href="#">Obstetrics & Gynecology</a></li>
+              <li><a href="#">Orthipedics</a></li>  
+              <li><a href="#">Pathology & Laboratory Medicine</a></li> 
+              <li><a href="#">Pediatrics</a></li> 
+              <li><a href="#">Pulmonology</a></li>
+              <li><a href="#">Radiology & Imaging Sciences</a></li> 
+              <li><a href="#">Rehabilitation Medicine</a></li> 
+              <li><a href="#">Thoracic & Cardiovascular Surgery</a></li> 
+              <li><a href="#">Urology</a></li>  
+            </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>More</span> <i class="bi bi-chevron-down"></i></a>
+              <ul>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
+              </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
     </div>
