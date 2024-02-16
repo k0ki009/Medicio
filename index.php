@@ -126,9 +126,9 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/bg.jpg)">
           <div class="container">
-            <h2>Welcome to Gensan Medical Center</h2>
+            <h2>Caring beyong Healing</h2>
            
           </div>
         </div>
@@ -136,7 +136,7 @@
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
-            <h2>Where healthcare happens 24/7</h2>
+            <h2>Welcome to Gensan Medical Center</h2>
             
           </div>
         </div>
@@ -149,7 +149,7 @@
           </div>
         </div>
  <!-- Slide 4 -->
- <div class="carousel-item" style="background-image: url(assets/img/slide/bg.jpg)">
+ <div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="container">
             <h2>We care about your HEALTH</h2>
             
@@ -175,11 +175,14 @@
         <h5><strong>Accreditation:</strong></h5>
         <div class="circle" >
         <img src="assets/img/DOH.png" height="70px" width="70px">
+        <img src="assets/img/maasim.jpg" height="70px" width="70px">
         <img src="assets/img/amping.png" height="70px" width="70px">
         <img src="assets/img/Philhealth.png" height="100px" width="150px">
+        <img src="assets/img/DSWD.png" height="100px" width="150px">
         <img src="assets/img/MAXICARE.png" height="50px" width="100px">
-        <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px">
-        <img src="assets/img/PNB.png" height="50px" width="130px">
+        <!-- <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px"> -->
+        <!-- <img src="assets/img/PNB.png" height="50px" width="130px"> -->
+        <img src="assets/img/UHC.png" height="80px" width="120px">
         <img src="assets/img/WELLCARE-HEALTH-MAINTENANCE.png" height="80px" width="120px">
         </div>
         <div class="circle">
