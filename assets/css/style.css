@@ -52,7 +52,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #3fbbc0;
+  border: 6px solid #268332 ;
   border-top-color: #ecf8f9;
   border-radius: 50%;
   width: 60px;
@@ -1336,11 +1336,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #3fbbc0;
+  border: 1px solid #268332 ;
 }
 
 .gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3fbbc0;
+  background-color: #268332 ;
 }
 
 .gallery .swiper-slide-active {
@@ -1353,7 +1353,7 @@ section {
   }
 
   .gallery .swiper-slide-active {
-    border: 6px solid #3fbbc0;
+    border: 6px solid #268332 ;
     padding: 4px;
     background: #fff;
     z-index: 1;
