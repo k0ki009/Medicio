@@ -83,10 +83,14 @@
           <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>           
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Outpatient Services</a></li>           
+              <li><a href="#">Diagnostic Services</a></li>
+              <li><a href="#">Radiology (Imaging)</a></li>
+              <li><a href="#">Medical Laboratory</a></li>
+              <li><a href="#">Rehabilitation Medicine</a></li>
+              <li><a href="#">Family Planning Services</a></li>
+              <li><a href="#">Inpatient Services</a></li>
+              <li><a href="#">Specialization</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
