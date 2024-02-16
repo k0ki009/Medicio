@@ -613,6 +613,10 @@ section {
   padding-bottom: 10px;
 }
 
+.section-title .about {
+  text-align: justify;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -726,7 +730,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-  background: #3fbbc0;
+  background: #268332 ;
   top: 0;
   border-radius: 0px;
 }
@@ -844,7 +848,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 30px;
-  color: #3fbbc0;
+  color: #3E7AB9;
   float: left;
 }
 

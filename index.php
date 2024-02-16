@@ -128,7 +128,7 @@
         <!-- Slide 1 -->
         <div class="carousel-item active" style="background-image: url(assets/img/slide/bg.jpg)">
           <div class="container">
-            <h2>Caring beyong Healing</h2>
+            <h2>Caring Beyond Healing</h2>
            
           </div>
         </div>
@@ -174,79 +174,63 @@
     <div class="container">
         <h5><strong>Accreditation:</strong></h5>
         <div class="circle" >
-        <img src="assets/img/DOH.png" height="70px" width="70px">
-        <img src="assets/img/maasim.jpg" height="70px" width="70px">
-        <img src="assets/img/amping.png" height="70px" width="70px">
-        <img src="assets/img/Philhealth.png" height="100px" width="150px">
+        <img src="assets/img/DOH.png" height="80px" width="80px">
+        <img src="assets/img/maasim.jpg" height="90px" width="90px">
+        <img src="assets/img/amping.png" height="90px" width="90px">
+        <img src="assets/img/Philhealth.png" height="70px" width="140px">
+        <img src="assets/img/Pacific.png" height="80px" width="160px">
+        <!-- <img src="assets/img/MAXICARE.png" height="50px" width="130px"> -->
         <img src="assets/img/DSWD.png" height="100px" width="150px">
-        <img src="assets/img/MAXICARE.png" height="50px" width="100px">
         <!-- <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px"> -->
         <!-- <img src="assets/img/PNB.png" height="50px" width="130px"> -->
-        <img src="assets/img/UHC.png" height="80px" width="120px">
-        <img src="assets/img/WELLCARE-HEALTH-MAINTENANCE.png" height="80px" width="120px">
-        </div>
-        <div class="circle">
-      
-            <!-- <span class="text">Electrocardiography</span> -->
-        </div>
-        <div class="circle">
-            
-            <!-- <span class="text">Emergency Services</span> -->
-        </div>
-        <div class="circle">
-            
-            <!-- <span class="text">Primary Care Center</span> -->
-        </div>
-        <div class="circle">
-            
-            <!-- <span class="text">Primary Care Center</span> -->
-        </div>
-        <div class="circle">
-            
-            <!-- <span class="text">Primary Care Center</span> -->
-        </div>
-        <div class="circle">
-            
-            <!-- <span class="text">Primary Care Center</span> -->
+        <img src="assets/img/UHC.png" height="80px" width="100px">
+        <img src="assets/img/coop.png" height="90px" width="90px">
+        <img src="assets/img/PCSO.png" height="80px" width="80px">
+        <img src="assets/img/TPP.png" height="90px" width="90px">
         </div>
     </div>
+    <br>
       <div class="container" data-aos="fade-up">
 
         <div class="row no-gutters">
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <i class="fas fa-user-md"></i>
-              <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
+            <i class="fa-solid fa-handshake"></i>
+              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
 
-              <p><strong>Doctors</strong> consequuntur quae qui deca rode</p>
-              <a href="doctors.php">Find out more &raquo;</a>
+              <p><strong>Partnership</strong> consequuntur quae qui deca rode</p>
+              <a href="">Find out more &raquo;</a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <i class="far fa-hospital"></i>
-              <span data-purecounter-start="0" data-purecounter-end="26" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Departments</strong> adipisci atque cum quia aut numquam delectus</p>
+            <i class="fas fa-user-md"></i>
+              <!-- <i class="far fa-hospital"></i> -->
+              <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Specialist</strong> adipisci atque cum quia aut numquam delectus</p>
               <a href="#">Find out more &raquo;</a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <i class="fas fa-flask"></i>
-              <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Research Lab</strong> aut commodi quaerat. Aliquam ratione</p>
+              <!-- <i class="fas fa-flask"></i> -->
+              <!-- <i class="fa-solid fa-head-side-gear"></i> -->
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <span data-purecounter-start="0" data-purecounter-end="19" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Specialization</strong> aut commodi quaerat. Aliquam ratione</p>
               <a href="#">Find out more &raquo;</a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <i class="fas fa-award"></i>
-              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Awards</strong> rerum asperiores dolor molestiae doloribu</p>
+              <!-- <i class="fas fa-award"></i> -->
+              <i class="fa-solid fa-gears"></i>
+              <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Services</strong> rerum asperiores dolor molestiae doloribu</p>
               <a href="#">Find out more &raquo;</a>
             </div>
           </div>
@@ -424,7 +408,9 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-         <p>jsdhdjhsdjbjxvhjzxj</p>
+         <p class="about" >Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
+           recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
+           designed to cater to the diverse medical needs of the populace.</p>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
@@ -433,20 +419,25 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            GensanMed extends its services beyond geographical boundaries, reaching out to the wider community of General Santos City and its surrounding areas.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              <li><i class="bi bi-check-circle"></i> Committed to delivering cutting-edge medical care.</li>
+              <li><i class="bi bi-check-circle"></i> Promoting preventive healthcare initiatives and community outreach programs.</li>
+              <li><i class="bi bi-check-circle"></i> At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care.</li>
+            </ul> -->
+            <p class="about">
+              Situated in the heart of Barangay Calumpang, GensanMed extends its services beyond geographical boundaries, 
+              reaching out to the wider community of General Santos City and its surrounding areas. Committed to delivering
+              cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
+              From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
+              nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.
+              Beyond its clinical prowess, Gensan Medical Center fosters wellness, promoting preventive healthcare initiatives and community outreach programs.
+              Through educational campaigns and health screenings, the hospital actively engages with the public, empowering individuals to take charge of their
+              well-being and live healthier lives. At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care. 
+              Whether it’s routine check-up, a complex surgical procedure, or emergency intervention.
             </p>
           </div>
         </div>
