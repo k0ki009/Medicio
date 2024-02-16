@@ -79,7 +79,7 @@
         <ul>
           <li><a class="nav-link scrollto " href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#News">News</a></li>
+          <li><a class="nav-link scrollto" href="news.php">News</a></li>
           <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
