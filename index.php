@@ -162,6 +162,7 @@
         <h5><strong>Accreditation:</strong></h5>
         <div class="circle" >
         <img src="assets/img/DOH.png" height="70px" width="70px">
+        <img src="assets/img/amping.png" height="70px" width="70px">
         <img src="assets/img/Philhealth.png" height="100px" width="150px">
         <img src="assets/img/MAXICARE.png" height="50px" width="100px">
         <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px">
