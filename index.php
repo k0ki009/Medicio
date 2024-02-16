@@ -70,7 +70,7 @@
     <div class="container d-flex align-items-center">
 
       <a href="index.html" class="logo me-auto"><img src="assets/img/logo.jpg" alt="" >
-      <span>GENSAN MEDICAL CENTER</span>
+      <span>GENSAN MEDICAL ghhgh</span>
      </a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
