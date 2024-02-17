@@ -2,145 +2,34 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<?php include("header.php") ?>
+<style>
+  /* <!-- Add the following CSS styles to your existing CSS file or within a <style> tag in your HTML --> */
+<style>
+  /* Define animation keyframes */
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-5px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
 
-  <title>Gensan Medical Center</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  /* Apply animation to the icons */
+  .info-box i {
+    animation: bounce 5s infinite;
+  }
+</style>
 
-  <!-- Favicons -->
-  <link href="assets/img/logo.jpg" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Medicio
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
+</style>
 </head>
 
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i> Open 24/7
-      </div>
-      <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now (083) 887 9898
-      </div>
-    </div>
-  </div>
-  <!-- chatbot -->
-  <!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;"> -->
-      <!-- Chatbot messages will be displayed here -->
-    <!-- </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center">
-
-      <a href="index.html" class="logo me-auto"><img src="assets/img/logo.jpg" alt="" >
-      <span>GENSAN MEDICAL CENTER</span>
-     </a>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
-
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="nav-link scrollto " href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="news.php">News</a></li>
-          <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
-          <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Outpatient Services</a></li>           
-              <li><a href="#">Diagnostic Services</a></li>
-              <li class="dropdown"><a href="#"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">64 Slice Ct Scan</a></li>
-                  <li><a href="#">2d Echo</a></li>
-                  <li><a href="#">ECG</a></li>
-                  <li><a href="#">Mobile X-Ray</a></li>
-                  <li><a href="#">Ultrasound</a></li>
-                  <li><a href="#">X-Ray</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Medical Laboratory</a></li>
-              <li><a href="#">Rehabilitation Medicine</a></li>
-              <li><a href="#">Family Planning Services</a></li>
-              <li><a href="#">Inpatient Services</a></li>
-              <li><a href="#">Specialization</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>           
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Specialization</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Anesthesiology</a></li>           
-              <li><a href="#">Ear, Nose, & Throat (ENT)</a></li>
-              <li><a href="#">Family Medicine</a></li>
-              <li><a href="#">General Surgery</a></li> 
-              <li><a href="#">Internal Medicine</a></li> 
-              <li><a href="#">Neonatology</a></li> 
-              <li><a href="#">Nephrology</a></li> 
-              <li><a href="#">Occupational Medicine</a></li> 
-              <li><a href="#">Ophthalmology</a></li> 
-              <li><a href="#">Obstetrics & Gynecology</a></li>
-              <li><a href="#">Orthipedics</a></li>  
-              <li><a href="#">Pathology & Laboratory Medicine</a></li> 
-              <li><a href="#">Pediatrics</a></li> 
-              <li><a href="#">Pulmonology</a></li>
-              <li><a href="#">Radiology & Imaging Sciences</a></li> 
-              <li><a href="#">Rehabilitation Medicine</a></li> 
-              <li><a href="#">Thoracic & Cardiovascular Surgery</a></li> 
-              <li><a href="#">Urology</a></li>  
-            </ul>
-              </li>
-              <li class="dropdown"><a href="#"><span>More</span> <i class="bi bi-chevron-down"></i></a>
-              <ul>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
-              </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-    </div>
-  </header><!-- End Header -->
+<!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
@@ -224,8 +113,8 @@
             <i class="fa-solid fa-handshake"></i>
               <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
 
-              <p><strong>Partnership</strong> consequuntur quae qui deca rode</p>
-              <a href="">Find out more &raquo;</a>
+              <p><strong>Partnership</strong> </p>
+              <!-- <a href="">Find out more &raquo;</a> -->
             </div>
           </div>
 
@@ -234,8 +123,8 @@
             <i class="fas fa-user-md"></i>
               <!-- <i class="far fa-hospital"></i> -->
               <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Specialist</strong> adipisci atque cum quia aut numquam delectus</p>
-              <a href="#">Find out more &raquo;</a>
+              <p><strong>Specialist</strong> </p>
+              <!-- <a href="#">Find out more &raquo;</a> -->
             </div>
           </div>
 
@@ -245,8 +134,8 @@
               <!-- <i class="fa-solid fa-head-side-gear"></i> -->
               <i class="fa-solid fa-magnifying-glass"></i>
               <span data-purecounter-start="0" data-purecounter-end="19" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Specialization</strong> aut commodi quaerat. Aliquam ratione</p>
-              <a href="#">Find out more &raquo;</a>
+              <p><strong>Specialization</strong> </p>
+              <!-- <a href="#">Find out more &raquo;</a> -->
             </div>
           </div>
 
@@ -255,8 +144,8 @@
               <!-- <i class="fas fa-award"></i> -->
               <i class="fa-solid fa-gears"></i>
               <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Services</strong> rerum asperiores dolor molestiae doloribu</p>
-              <a href="#">Find out more &raquo;</a>
+              <p><strong>Services</strong></p>
+              <!-- <a href="#">Find out more &raquo;</a> -->
             </div>
           </div>
 
@@ -433,17 +322,19 @@
 
         <div class="section-title">
           <h2>About Us</h2>
+        
          <p class="about" >Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
            recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
            designed to cater to the diverse medical needs of the populace.</p>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
-
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+</div>
+        
             <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>
             <p class="fst-italic">
             GensanMed extends its services beyond geographical boundaries, reaching out to the wider community of General Santos City and its surrounding areas.
@@ -467,7 +358,7 @@
           </div>
         </div>
 
-      </div>
+    
     </section><!-- End About Us Section -->
 
 
@@ -814,118 +705,49 @@
     <!-- End Frequently Asked Questioins Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>LOCATION</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
-
+   <div class="contact-container">
+  <section id="contact" class="contact">
+    <div class="container">
+      <div class="section-title">
+        <h2>LOCATION</h2>
       </div>
+    </div>
 
-      <div>
+    <div>
       <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d589.7506210444478!2d125.14772443154469!3d6.082986741915807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32f7a1e83a729f59%3A0x3b684e885cd70c77!2sGensan%20Medical%20Center!5e0!3m2!1sen!2sph!4v1707449723988!5m2!1sen!2sph" frameborder="0" allowfullscreen></iframe>
-      </div>
-
-      <div class="container">
-
-        <div class="row mt-5">
-
-          <div class="col-lg-6">
-
-            <div class="row">
-              <div class="col-md-12">
-                <div class="info-box">
-                  <i class="bx bx-map"></i>
-                  <h3>Our Address</h3>
-                  <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="info-box mt-4">
-                  <i class="bx bx-envelope"></i>
-                  <h3>Email Us</h3>
-                  <p>contactus@gensanmed.com</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="info-box mt-4">
-                  <i class="bx bx-phone-call"></i>
-                  <h3>Call Us</h3>
-                  <p>(083) 887 9898</p>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required="">
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required="">
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="7" placeholder="Message" required=""></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-      <nav id="navbar" class="navbar order-last order-lg-0" >
-        <ul>
-          <li><a class="nav-link scrollto " href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#News">News</a></li>
-          <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
-          <li class="dropdown"><a href="#"><span>Services</span></a>
-          </li>
-          <li class="dropdown"><a href="#"><span>Facilities</span></a>
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-      </div>
     </div>
 
     <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Medicio</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medicio-free-bootstrap-theme/ -->
-        Designed by GICALE WATAPAMPAM <a href="https://bootstrapmade.com/">BootstrapMade</a>
+  <div class="row mt-5">
+    <div class="col-md-4">
+      <div class="info-box">
+        <i class="bx bx-map"></i>
+        <h3>Our Address</h3>
+        <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines</p>
       </div>
     </div>
-  </footer><!-- End Footer -->
+    <div class="col-md-4">
+      <div class="info-box">
+        <i class="bx bx-envelope"></i>
+        <h3>Email Us</h3>
+        <p>contactus@gensanmed.com</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="info-box">
+        <i class="bx bx-phone-call"></i>
+        <h3>Call Us</h3>
+        <p>(083) 887 9898</p>
+      </div>
+    </div>
+  </div>
+</div>
+      </section>
+
+      </main>
+
+  <!-- ======= Footer ======= -->
+  <?php include("footer.php") ?>
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
