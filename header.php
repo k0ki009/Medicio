@@ -21,7 +21,7 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <style>
         .scrollable-menu {
-            max-height: 200px;
+            max-height: 500px;
             /* Set the maximum height of the dropdown menu */
             overflow-y: auto;
             /* Enable vertical scrolling */
