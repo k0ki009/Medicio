@@ -5,14 +5,14 @@
 <?php include("header.php") ?>
 <style>
   /* <!-- Add the following CSS styles to your existing CSS file or within a <style> tag in your HTML --> */
-<style>
+
   /* Define animation keyframes */
   @keyframes bounce {
     0% {
-      transform: translateY(0);
+      transform: translateY(10);
     }
     50% {
-      transform: translateY(-5px);
+      transform: translateY(-10px);
     }
     100% {
       transform: translateY(0);
@@ -23,7 +23,7 @@
   .info-box i {
     animation: bounce 5s infinite;
   }
-</style>
+
 
 </style>
 </head>
@@ -744,48 +744,10 @@
   <!-- ======= Footer ======= -->
   <?php include("footer.php") ?>
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <!-- <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-<!-- Chatbot JavaScript -->
-<script>
-    // Function to send user message
-    function sendMessage() {
-      var userInput = document.getElementById('user-input').value;
-      displayUserMessage(userInput);
-      // Call a function to handle user input and get response from chatbot
-      // For example, you can use an API call to a chatbot service
-      // Replace the following line with your actual implementation
-      displayBotMessage("Hello! You typed: " + userInput);
-      document.getElementById('user-input').value = ''; // Clear input field after sending message
-    }
-
-    // Function to display user message
-    function displayUserMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var userMessageElement = document.createElement('div');
-      userMessageElement.innerText = "You: " + message;
-      chatbotMessages.appendChild(userMessageElement);
-    }
-
-    // Function to display bot message
-    function displayBotMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var botMessageElement = document.createElement('div');
-      botMessageElement.innerText = "Bot: " + message;
-      chatbotMessages.appendChild(botMessageElement);
-    }
-  </script>
 </body>
 
 </html>
