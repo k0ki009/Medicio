@@ -9,10 +9,10 @@
   /* Define animation keyframes */
   @keyframes bounce {
     0% {
-      transform: translateY(10);
+      transform: translateY(0);
     }
     50% {
-      transform: translateY(-10px);
+      transform: translateY(-30px);
     }
     100% {
       transform: translateY(0);
@@ -21,7 +21,7 @@
 
   /* Apply animation to the icons */
   .info-box i {
-    animation: bounce 5s infinite;
+    animation: bounce 3s infinite;
   }
 
 
