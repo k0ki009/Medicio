@@ -99,53 +99,40 @@
             <h2>Latest News</h2>
         </div>
 
-        <div id="news-carousel" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="row">
-                        <div class="col-lg-6" data-aos="fade-up">
-                            <div class="card">
-                                <img src="assets/img/departments-1.jpg" class="card-img-top" alt="News Image">
-                                <div class="card-body">
-                                    <p class="card-text">MANILA – The Commission on Human Rights (CHR) on Friday urged local government units (LGUs) to focus on comprehensive measures to enhance sexual and reproductive health education and services. In its situation report on the interplay of gender inequality and teenage pregnancy, the CHR noted that one out of 10 Filipino females aged 15 to 19 years has begun childbearing. "Teenage pregnancy entails numerous risks for both the mother and child. Adolescent pregnancy takes a colossal bearing on a girl's education and income-generating potential," it added.</p>
-                                    <a href="#" class="btn btn-primary">Read more &raquo;</a>
-                                </div>
+        <div class="row">
+            <!-- Existing News Item -->
+            <div class="col-lg-6" data-aos="fade-up">
+                <div class="card mb-4">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="assets/img/departments-1.jpg" class="card-img" alt="News Image">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <p class="card-text">CHR to LGUs: Boost reproductive health educ to curb teen pregnancy</p>
+                                <a href="#" class="btn btn-primary">Read more &raquo;</a>
                             </div>
                         </div>
-
-                        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                            <div class="card">
-                                <img src="assets/img/departments-1.jpg" class="card-img-top" alt="News Image">
-                                <div class="card-body">
-                                    <p class="card-text">MANILA – The Commission on Human Rights (CHR) on Friday urged local government units (LGUs) to focus on comprehensive measures to enhance sexual and reproductive health education and services. In its situation report on the interplay of gender inequality and teenage pregnancy, the CHR noted that one out of 10 Filipino females aged 15 to 19 years has begun childbearing. "Teenage pregnancy entails numerous risks for both the mother and child. Adolescent pregnancy takes a colossal bearing on a girl's education and income-generating potential," it added.</p>
-                                    <a href="#" class="btn btn-primary">Read more &raquo;</a>
-                                </div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
-
-                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                            <div class="card">
-                                <img src="assets/img/departments-1.jpg" class="card-img-top" alt="News Image">
-                                <div class="card-body">
-                                    <p class="card-text">MANILA – The Commission on Human Rights (CHR) on Friday urged local government units (LGUs) to focus on comprehensive measures to enhance sexual and reproductive health education and services. In its situation report on the interplay of gender inequality and teenage pregnancy, the CHR noted that one out of 10 Filipino females aged 15 to 19 years has begun childbearing. "Teenage pregnancy entails numerous risks for both the mother and child. Adolescent pregnancy takes a colossal bearing on a girl's education and income-generating potential," it added.</p>
-                                    <a href="#" class="btn btn-primary">Read more &raquo;</a>
-                                </div>
-                            </div>
-                        </div>
-                <!-- Add more carousel-items here for additional news articles -->
             </div>
 
-            <a class="carousel-control-prev" href="#news-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#news-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <!-- New News Item -->
+            <div class="col-lg-6" data-aos="fade-up">
+                <div class="card mb-4">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="assets/img/departments-2.jpg" class="card-img" alt="News Image">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <p class="card-text">Tobacco consumption declining worldwide: WHO</p>
+                                <a href="#" class="btn btn-primary">Read more &raquo;</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
