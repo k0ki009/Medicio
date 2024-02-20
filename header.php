@@ -61,7 +61,7 @@
                     <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="#">Outpatient Services</a></li>
+                            <li><a href="outpatient.php">Outpatient Services</a></li>
                             <li><a href="#">Diagnostic Services</a></li>
                             <li class="dropdown"><a href="#"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul class="scrollable-menu">
@@ -98,22 +98,33 @@
                             <li><a href="#">Family Planning Services</a>
                             <li class="dropdown"><a href="#"><span>Impatient Services</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="#">Emergency Services</a></li>
-                                    <li><a href="#">Dietary Services</a></li>
-                                    <li><a href="#">Neonatal Intensive Care Unit</a></li>
-                                    <li><a href="#">Pharmacy Services</a></li>
-                                    <li><a href="#">Pulmunary Care Services</a></li>
-                                    <li><a href="#">Renal Dialysis Unit</a></li>
-                                </ul> 
+                                <li><a href="#">Emergency Services</a></li>
+                                <li><a href="#">Dietary Services</a></li>
+                                <li><a href="#">Neonatal Intensive Care Unit</a></li>
+                                <li><a href="#">Pharmacy Services</a></li>
+                                <li><a href="#">Pulmunary Care Services</a></li>
+                                <li><a href="#">Renal Dialysis Unit</a></li>
+                            </ul> 
                         </li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="#">Drop Down 1</a></li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
+                        <ul class="scrollable-menu">
+                            <li><a href="#">Nursing Station</a></li>
+                            <li><a href="#">Emergency Room (ER) </a></li>
+                            <li><a href="#">Intensive Care Unit (ICU) </a></li>
+                            <li><a href="#">Neonatal Intensive Care Unit (NICU) </a></li>
+                            <li><a href="#">Operating Room (OR) </a></li>
+                            <li><a href="#">Delivery Room</a></li>
+                            <li><a href="#">Laboratory Department</a></li>
+                            <li><a href="#">Imaging Department with CT Scan </a></li>
+                            <li><a href="#">Dietary Department</a></li>
+                            <li><a href="#">Rehabilitation and Wellness Center </a></li>
+                            <li><a href="#">Outpatient Services</a></li>
+                            <li><a href="#">Admitting</a></li>
+                            <li><a href="#">Renal Dialysis Department </a></li>
+                            <li><a href="#">Chapel </a></li>
+                            <li><a href="#">Islam Prayer Room </a></li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Specialization</span> <i class="bi bi-chevron-down"></i></a>

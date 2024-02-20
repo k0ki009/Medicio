@@ -12,7 +12,7 @@
       transform: translateY(0);
     }
     50% {
-      transform: translateY(-30px);
+      transform: translateY(-100px);
     }
     100% {
       transform: translateY(0);
@@ -23,7 +23,6 @@
   .info-box i {
     animation: bounce 3s infinite;
   }
-
 
 </style>
 </head>
@@ -48,7 +47,7 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/gmc1.jpg)">
           <div class="container">
             <h2>Welcome to Gensan Medical Center</h2>
             
@@ -82,25 +81,24 @@
     </div>
   </section><!-- End Hero -->
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
-
+  <section id="counts" class="counts">
     <div class="container">
-        <h5><strong>Accreditation:</strong></h5>
-        <div class="circle" >
-        <img src="assets/img/DOH.png" height="80px" width="80px">
-        <img src="assets/img/maasim.jpg" height="90px" width="90px">
-        <img src="assets/img/amping.png" height="90px" width="90px">
-        <img src="assets/img/Philhealth.png" height="70px" width="140px">
-        <img src="assets/img/Pacific.png" height="80px" width="160px">
-        <!-- <img src="assets/img/MAXICARE.png" height="50px" width="130px"> -->
-        <img src="assets/img/DSWD.png" height="100px" width="150px">
-        <!-- <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px"> -->
-        <!-- <img src="assets/img/PNB.png" height="50px" width="130px"> -->
-        <img src="assets/img/UHC.png" height="80px" width="100px">
-        <img src="assets/img/coop.png" height="90px" width="90px">
-        <img src="assets/img/PCSO.png" height="80px" width="80px">
-        <img src="assets/img/TPP.png" height="90px" width="90px">
+       <p><strong>Partner Companies:</strong> </p>
+        <div class="circle">
+            <img src="assets/img/TPP.png" height="90px" width="90px">
+            <img src="assets/img/DOH.png" height="80px" width="80px">
+            <img src="assets/img/UHC.png" height="80px" width="100px">
+            <img src="assets/img/Philhealth.png" height="70px" width="140px">
+            <img src="assets/img/PCSO.png" height="80px" width="80px">
+            <img src="assets/img/DSWD.png" height="100px" width="150px">
+            <img src="assets/img/maasim.jpg" height="90px" width="90px">
+            <img src="assets/img/amping.png" height="90px" width="90px">
+            <img src="assets/img/Pacific.png" height="80px" width="160px">
+            <!-- <img src="assets/img/MAXICARE.png" height="50px" width="130px"> -->
+            <!-- <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px"> -->
+            <!-- <img src="assets/img/PNB.png" height="50px" width="130px"> -->
+            <img src="assets/img/coop.png" height="90px" width="90px">
+            
         </div>
     </div>
     <br>
@@ -112,9 +110,8 @@
             <div class="count-box">
             <i class="fa-solid fa-handshake"></i>
               <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-
-              <p><strong>Partnership</strong> </p>
-              <!-- <a href="">Find out more &raquo;</a> -->
+              <p><strong>Partnership</strong> Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <a href="">Find out more &raquo;</a>
             </div>
           </div>
 
@@ -123,8 +120,8 @@
             <i class="fas fa-user-md"></i>
               <!-- <i class="far fa-hospital"></i> -->
               <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Specialist</strong> </p>
-              <!-- <a href="#">Find out more &raquo;</a> -->
+              <p><strong>Specialist</strong> Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi </p>
+              <a href="#">Find out more &raquo;</a>
             </div>
           </div>
 
@@ -134,8 +131,8 @@
               <!-- <i class="fa-solid fa-head-side-gear"></i> -->
               <i class="fa-solid fa-magnifying-glass"></i>
               <span data-purecounter-start="0" data-purecounter-end="19" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Specialization</strong> </p>
-              <!-- <a href="#">Find out more &raquo;</a> -->
+              <p><strong>Specialization</strong> Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi </p>
+              <a href="#">Find out more &raquo;</a>
             </div>
           </div>
 
@@ -144,8 +141,8 @@
               <!-- <i class="fas fa-award"></i> -->
               <i class="fa-solid fa-gears"></i>
               <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Services</strong></p>
-              <!-- <a href="#">Find out more &raquo;</a> -->
+              <p><strong>Services</strong> Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi </p>
+              <a href="#">Find out more &raquo;</a>
             </div>
           </div>
 
@@ -197,6 +194,7 @@
                       In its situation report on the interplay of gender inequality and teenage pregnancy, the CHR noted that one out of 10 Filipino females aged 15 to 19 years has begun childbearing.
                       "Teenage pregnancy entails numerous risks for both the mother and child. Adolescent pregnancy takes a colossal bearing on a girl's education and income-generating potential," it added.
                   </p>
+                  <a href="#">Read more &raquo;</a>
               </div>
               <div class="tab-pane" id="tab-2">
                 <h3>Tobacco consumption declining worldwide: WHO</h3>
@@ -206,6 +204,7 @@
                    At the initiative of the UN agency, Feb. 9 is observed annually as World Stop Smoking Day every year to help prevent the harm from smoking, reduce its use, and raise social awareness.
                    While approximately 1.26 billion people worldwide used tobacco products in 2020, by 2022 this number fell to 1.24 billion.
                 </p>
+                <a href="#">Read more &raquo;</a>
               </div>
               <div class="tab-pane" id="tab-3">
                 <h3>Health expert: Lifestyle change effective way to prevent cancer</h3>
@@ -215,6 +214,7 @@
                   “Plant-based diet is not necessarily vegan or not necessarily vegetarian. It’s only saying that your plate should be composed predominantly of whole food,” said Dr. Mechelle Palma, president of the Philippine College of Lifestyle Medicine.
                   In a media interview, Palma said it means one’s diet must contain fruits, vegetables.
                 </p>
+                <a href="#">Read more &raquo;</a>
               </div>
               <div class="tab-pane" id="tab-4">
                 <h3>Pediatrics</h3>
@@ -273,21 +273,21 @@
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
           <div class="icon"><i class="fas fa-pills animation__spin"></i></div>
-          <h4 class="title"><a href="">PHARMACY</a></h4>
+          <h4 class="title"><a href="">PHARMACY SERVICES</a></h4>
           <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
           <div class="icon"><i class="fas fa-thermometer animation__pulse"></i></div>
-          <h4 class="title"><a href="">PEDIATRIC CARE UNIT</a></h4>
+          <h4 class="title"><a href="">DRUG TESTING</a></h4>
           <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
           <div class="icon"><i class="fas fa-dna animation__rotate"></i></div>
-          <h4 class="title"><a href="">MAMMOGRAM</a></h4>
+          <h4 class="title"><a href="">CLINICAL MICROSCOPY</a></h4>
           <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
         </div>
       </div>
@@ -317,18 +317,25 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-        
-         <p class="about" >Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
-           recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
-           designed to cater to the diverse medical needs of the populace.</p>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/gmc1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-</div>
+          <p class="about" style="text-align: justify;">Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
+           recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
+           designed to cater to the diverse medical needs of the populace.</p> <p style="text-align: justify;">Situated in the heart of Barangay Calumpang, GensanMed extends its services beyond geographical boundaries, 
+              reaching out to the wider community of General Santos City and its surrounding areas. Committed to delivering
+              cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
+              From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
+              nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.
+              Beyond its clinical prowess, Gensan Medical Center fosters wellness, promoting preventive healthcare initiatives and community outreach programs.
+              Through educational campaigns and health screenings, the hospital actively engages with the public, empowering individuals to take charge of their
+              well-being and live healthier lives. At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care. 
+              Whether it’s routine check-up, a complex surgical procedure, or emergency intervention.</p>
+        </div>
         
             <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>
             <p class="fst-italic">
@@ -340,15 +347,7 @@
               <li><i class="bi bi-check-circle"></i> At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care.</li>
             </ul> -->
             <p class="about">
-              Situated in the heart of Barangay Calumpang, GensanMed extends its services beyond geographical boundaries, 
-              reaching out to the wider community of General Santos City and its surrounding areas. Committed to delivering
-              cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
-              From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
-              nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.
-              Beyond its clinical prowess, Gensan Medical Center fosters wellness, promoting preventive healthcare initiatives and community outreach programs.
-              Through educational campaigns and health screenings, the hospital actively engages with the public, empowering individuals to take charge of their
-              well-being and live healthier lives. At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care. 
-              Whether it’s routine check-up, a complex surgical procedure, or emergency intervention.
+              
             </p>
           </div>
         </div>

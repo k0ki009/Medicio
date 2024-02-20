@@ -3,13 +3,94 @@
 
 <head>
 <?php include("header.php") ?>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <title>Medicio Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo.jpg" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/doctors.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Medicio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+
+  <!-- <style>
+    /* Style for chatbot container */
+    #chatbot-container {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 300px;
+      height: 400px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      overflow: hidden;
+      z-index: 1000;
+    }
+  </style> -->
 </head>
 <body>
 
-<!-- End Header -->
-
-
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
+      <div class="align-items-center d-none d-md-flex">
+        <i class="bi bi-clock"></i>Open Open 24/7
+      </div>
+      <div class="d-flex align-items-center">
+        <i class="bi bi-phone"></i> Call us now (083) 887 9898
+      </div>
+    </div>
+  </div>
+  <!-- chatbot -->
+  <!-- <div id="chatbot-container">
+    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
+      Chatbot
+    </div>
+    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;"> -->
+      <!-- Chatbot messages will be displayed here -->
+    <!-- </div>
+    <div id="chatbot-input" style="padding: 10px;">
+      <input type="text" id="user-input" placeholder="Type your message...">
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div> -->
+<!-- <div id="chatbot-container">
+    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
+      Chatbot
+    </div>
+    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;">
+      Chatbot messages will be displayed here
+    </div>
+    <div id="chatbot-input" style="padding: 10px;">
+      <input type="text" id="user-input" placeholder="Type your message...">
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div> -->
 <!-- ======= Doctors Section ======= -->
 <section id="doctors" class="doctors section-bg">
       <div class="container" data-aos="fade-up">
@@ -246,7 +327,7 @@
     <!-- End Doctors Section -->
 
 <!-- ======= Footer ======= -->
-<?php include("footer.php") ?><!-- End Footer -->
+<?php include("footer.php") ?>
 
   <!-- <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
