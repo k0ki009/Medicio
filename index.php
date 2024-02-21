@@ -331,10 +331,7 @@
               cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
               From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
               nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.
-              Beyond its clinical prowess, Gensan Medical Center fosters wellness, promoting preventive healthcare initiatives and community outreach programs.
-              Through educational campaigns and health screenings, the hospital actively engages with the public, empowering individuals to take charge of their
-              well-being and live healthier lives. At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care. 
-              Whether it’s routine check-up, a complex surgical procedure, or emergency intervention.</p>
+              <a href=""><strong> Find out more &raquo;</strong></a>
         </div>
         
             <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>

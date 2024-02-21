@@ -96,7 +96,7 @@
 <section id="doctors" class="doctors section-bg">
     <div class="container" data-aos="fade-up">
         <div class="section-title">
-            <h2>Latest News</h2>
+            <h2>News</h2>
         </div>
 
         <div class="row">

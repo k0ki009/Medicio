@@ -56,7 +56,12 @@
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto" href="index.php">Home</a></li>
-                    <li><a class="nav-link scrollto" href="about.php">About</a></li>
+                    <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul class="scrollable-menu">
+                            <li><a href="#">Director</a></li>
+                            <li><a href="#">Vision and Mission</a></li>
+                        </ul>
+                    </li>
                     <li><a class="nav-link scrollto" href="news.php">News</a></li>
                     <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
