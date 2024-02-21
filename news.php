@@ -110,7 +110,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <p class="card-text">CHR to LGUs: Boost reproductive health educ to curb teen pregnancy</p>
-                                <a href="#" class="btn btn-primary">Read more &raquo;</a>
+                                <a href="news_read.php" class="btn btn-primary">Read more &raquo;</a>
                             </div>
                         </div>
                     </div>
@@ -127,20 +127,44 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <p class="card-text">Tobacco consumption declining worldwide: WHO</p>
-                                <a href="#" class="btn btn-primary">Read more &raquo;</a>
+                                <a href="news_read.php" class="btn btn-primary">Read more &raquo;</a>
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
+        <!-- Pagination -->
+      <nav>
+        <ul class="pagination justify-content-center">
+          <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+          </li>
+          <li class="page-item active" aria-current="page">
+            <a class="page-link" href="#">1</a>
+          </li>
+          <li class="page-item">
+            <a class="page-link" href="#">2</a>
+          </li>
+          <li class="page-item">
+            <a class="page-link" href="#">3</a>
+          </li>
+          <li class="page-item">
+            <a class="page-link" href="#">Next</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </section>
+  <!-- End Doctors Section -->
     </div>
 </section>
 
     <!-- End Doctors Section -->
 
 <!-- ======= Footer ======= -->
-<?php include("footer.php") ?>
+
 
   <!-- <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
@@ -156,39 +180,8 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 
-  <!-- Chatbot JavaScript -->
-  <!-- <script>
-    // Function to send user message
-    function sendMessage() {
-      var userInput = document.getElementById('user-input').value;
-      displayUserMessage(userInput);
-      // Call a function to handle user input and get response from chatbot
-      // For example, you can use an API call to a chatbot service
-      // Replace the following line with your actual implementation
-      displayBotMessage("Hello! You typed: " + userInput);
-      document.getElementById('user-input').value = ''; // Clear input field after sending message
-    }
 
-    // Function to display user message
-    function displayUserMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var userMessageElement = document.createElement('div');
-      userMessageElement.innerText = "You: " + message;
-      chatbotMessages.appendChild(userMessageElement);
-    }
-
-    // Function to display bot message
-    function displayBotMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var botMessageElement = document.createElement('div');
-      botMessageElement.innerText = "Bot: " + message;
-      chatbotMessages.appendChild(botMessageElement);
-    }
-  </script> -->
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <?php include("footer.php") ?>
 </body>
 
 </html>
