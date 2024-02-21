@@ -67,31 +67,7 @@
       </div>
     </div>
   </div>
-  <!-- chatbot -->
-  <!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;"> -->
-      <!-- Chatbot messages will be displayed here -->
-    <!-- </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
-<!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;">
-      Chatbot messages will be displayed here
-    </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
+
 <!-- ======= Doctors Section ======= -->
 <section id="about" class="about">
       <div class="container" data-aos="fade-up">
