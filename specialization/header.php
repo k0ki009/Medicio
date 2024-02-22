@@ -55,19 +55,19 @@
             <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li><a class="nav-link scrollto" href="index.php">Home</a></li>
+                    <li><a class="nav-link scrollto" href="../index.php">Home</a></li>
                     <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
                             <li><a href="#">Director</a></li>
                             <li><a href="#">Vision and Mission</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="news.php">News</a></li>
-                    <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
+                    <li><a class="nav-link scrollto" href="../news.php">News</a></li>
+                    <li><a class="nav-link scrollto" href="../doctors.php">Doctors</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li class="dropdown"><a href="#">Outpatient & Diagnostic Services<i class="bi bi-chevron-right"></i></a>
-                            <ul><li class="dropdown"><a href="outpatient.php"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
+                            <ul><li class="dropdown"><a href="../outpatient.php"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul class="scrollable-menu">
                                     <li><a href="#">64 Slice CT Scan</a></li>
                                     <li><a href="#">2d Echo</a></li>
@@ -76,9 +76,9 @@
                                     <li><a href="#">Ultrasound</a></li>
                                     <li><a href="#">X-Ray</a></li></li></li>
                                 </ul>
-                                <li class="dropdown"><a href="medlab.php"><span>Medical Laboratory </span> <i class="bi bi-chevron-right"></i></a>
+                                <li class="dropdown"><a href="../medlab.php"><span>Medical Laboratory </span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="medlab.php">Bacteriology</a></li>
+                                    <li><a href="../medlab.php">Bacteriology</a></li>
                                     <li><a href="#">Clinical Chemistery</a></li>
                                     <li><a href="#">Clinical Microscopy</a></li>
                                     <li><a href="#">Drug Testing</a></li>
@@ -92,9 +92,9 @@
                             
                             </li>
                             
-                            <li class="dropdown"><a href="rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="../rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="rehabmed.php">Cupping</a></li>
+                                    <li><a href="../rehabmed.php">Cupping</a></li>
                                     <li><a href="#">Hydrocollator Packs</a></li>
                                     <li><a href="#">Muscular Taping</a></li>
                                     <li><a href="#">Tecar Theraphy</a></li>
@@ -102,7 +102,7 @@
                                     <li><a href="#">Therapeutic Exercises</a></li>
                                 </ul> 
                         </li>
-                            <li class="dropdown"><a href="famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="../famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                 <li><a href="#">Emergency Services</a></li>
                                 <li><a href="#">Dietary Services</a></li>
@@ -116,44 +116,44 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-                            <li><a href="facilities/nursing.php">Nursing Station</a></li>
-                            <li><a href="facilities/emergency.php">Emergency Room (ER) </a></li>
-                            <li><a href="facilities/intensive.php">Intensive Care Unit (ICU) </a></li>
-                            <li><a href="facilities/neonatal.php">Neonatal Intensive Care Unit (NICU) </a></li>
-                            <li><a href="facilities/operating.php">Operating & Delivery Room</a></li>
-                            <li><a href="facilities/medical.php">Medical Laboratory</a></li>
-                            <li><a href="facilities/imaging.php">Radiology & Imaging Sciences Facility</a></li>
-                            <li><a href="facilities/dietary.php">Dietary Department</a></li>
-                            <li><a href="facilities/rehab.php">Rehabilitation and Wellness Center </a></li>
-                            <li><a href="facilities/outpat.php">Outpatient Services</a></li>
-                            <li><a href="facilities/renal.php">Renal Dialysis Department </a></li>
-                            <li><a href="facilities/chapel.php">Chapel </a></li>
-                            <li><a href="facilities/islam.php">Islam Prayer Room </a></li>
+                            <li><a href="../facilities/nursing.php">Nursing Station</a></li>
+                            <li><a href="../facilities/emergency.php">Emergency Room (ER) </a></li>
+                            <li><a href="../facilities/intensive.php">Intensive Care Unit (ICU) </a></li>
+                            <li><a href="../facilities/neonatal.php">Neonatal Intensive Care Unit (NICU) </a></li>
+                            <li><a href="../facilities/operating.php">Operating & Delivery Room</a></li>
+                            <li><a href="../facilities/medical.php">Medical Laboratory</a></li>
+                            <li><a href="../facilities/imaging.php">Radiology & Imaging Sciences Facility</a></li>
+                            <li><a href="../facilities/dietary.php">Dietary Department</a></li>
+                            <li><a href="../facilities/rehab.php">Rehabilitation and Wellness Center </a></li>
+                            <li><a href="../facilities/outpat.php">Outpatient Services</a></li>
+                            <li><a href="../facilities/renal.php">Renal Dialysis Department </a></li>
+                            <li><a href="../facilities/facilities/chapel.php">Chapel </a></li>
+                            <li><a href="../facilities/islam.php">Islam Prayer Room </a></li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Specialization</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-                            <li><a href="specialization/anesthesiology.php">Anesthesiology</a></li>
-                            <li><a href="specialization/ent.php">Ear, Nose, & Throat (ENT)</a></li>
-                            <li><a href="specialization/radio.php">Family Medicine</a></li>
-                            <li><a href="specialization/general.php">General Surgery</a></li>
-                            <li><a href="specialization/internal.php">Internal Medicine</a></li>
-                            <li><a href="specialization/neonatology.php">Neonatology</a></li>
-                            <li><a href="specialization/nephrology.php">Nephrology</a></li>
-                            <li><a href="specialization/occupational.php">Occupational Medicine</a></li>
-                            <li><a href="specialization/ophthalmology.php">Ophthalmology</a></li>
-                            <li><a href="specialization/orthopedics.php">Orthopedics</a></li>
-                            <li><a href="specialization/pathology.php">Pathology & Laboratory Medicine</a></li>
-                            <li><a href="specialization/pediatrics.php">Pediatrics</a></li>
-                            <li><a href="specialization/pulmonology.php">Pulmonology</a></li>
-                            <li><a href="specialization/radio.php">Radiology & Imaging Sciences</a></li>
-                            <li><a href="specialization/rehab.php">Rehabilitation Medicine</a></li>
-                            <li><a href="specialization/thoracic.php">Thoracic & Cardiovascular Surgery</a></li>
-                            <li><a href="specialization/urology.php">Urology</a></li>
+                            <li><a href="anesthesiology.php">Anesthesiology</a></li>
+                            <li><a href="ent.php">Ear, Nose, & Throat (ENT)</a></li>
+                            <li><a href="family.php">Family Medicine</a></li>
+                            <li><a href="general.php">General Surgery</a></li>
+                            <li><a href="internal.php">Internal Medicine</a></li>
+                            <li><a href="neonatology.php">Neonatology</a></li>
+                            <li><a href="nephrology.php">Nephrology</a></li>
+                            <li><a href="occupational.php">Occupational Medicine</a></li>
+                            <li><a href="ophthalmology.php">Ophthalmology</a></li>
+                            <li><a href="orthopedics.php">Orthopedics</a></li>
+                            <li><a href="pathology.php">Pathology & Laboratory Medicine</a></li>
+                            <li><a href="pediatrics.php">Pediatrics</a></li>
+                            <li><a href="pulmonology.php">Pulmonology</a></li>
+                            <li><a href="radio.php">Radiology & Imaging Sciences</a></li>
+                            <li><a href="rehab.php">Rehabilitation Medicine</a></li>
+                            <li><a href="thoracic.php">Thoracic & Cardiovascular Surgery</a></li>
+                            <li><a href="urology.php">Urology</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
+                    <li><a class="nav-link scrollto" href="../index.php">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="../gallery.php">Gallery</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
