@@ -73,7 +73,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Outpatient Servicesssss</h2>
+          <h2>Outpatient & Diagnostic Services</h2>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
@@ -123,6 +123,16 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Experience precision and care with our cutting-edge ultrasound services at Gensan Medical Center. Our state-of-the-art technology, paired with the expertise of our skilled sonographers and radiologists, delivers detailed and accurate imaging for a wide range of medical needs. From monitoring pregnancies to diagnosing internal conditions, our ultrasound services offer non-invasive and reliable solutions tailored to your specific healthcare journey. We prioritize your comfort and well-being, ensuring each procedure is conducted with compassion and efficiency. At Gensan Medical Center, we understand the importance of timely diagnoses and personalized care, which is why we strive to exceed expectations in every ultrasound appointment. Trust in our commitment to excellence as we partner with you to achieve optimal health outcomes. Schedule your ultrasound appointment today and embark on a path towards clarity, confidence, and peace of mind.
+        </div>
+
+        <div class="container" data-aos="fade-up"> <br> <br>
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-right">
+          <h5>Mobile X-ray</h5>
+            <img src="assets/img/mxray.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+          <p class="about" style="text-align: justify;">Bringing cutting-edge healthcare to your doorstep with our mobile X-Ray services at Gensan Medical Center. Experience the convenience and efficiency of on-the-go diagnostics, delivered by our expert team of radiologists and technicians. Whether you're in a healthcare facility, nursing home, or even at home, our state-of-the-art mobile X-Ray unit ensures prompt and precise imaging solutions tailored to your needs. We understand the importance of accessibility and timely diagnoses, which is why we bring our expertise directly to you. With advanced technology and compassionate care, we prioritize your comfort and well-being throughout the process. Trust in Gensan Medical Center to provide reliable and comprehensive mobile X-Ray services, empowering you with the information you need for optimal health outcomes. Schedule your mobile X-Ray appointment today and experience healthcare that comes to you, wherever you are.
         </div>
         </div>
         

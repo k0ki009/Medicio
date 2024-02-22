@@ -66,21 +66,19 @@
                     <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="outpatient.php">Outpatient Services</a></li>
-                            <li><a href="#">Diagnostic Services</a></li>
-                            <li class="dropdown"><a href="#"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#">Outpatient & Diagnostic Services<i class="bi bi-chevron-right"></i></a>
+                            <ul><li class="dropdown"><a href="outpatient.php"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul class="scrollable-menu">
                                     <li><a href="#">64 Slice CT Scan</a></li>
                                     <li><a href="#">2d Echo</a></li>
                                     <li><a href="#">ECG</a></li>
                                     <li><a href="#">Mobile X-Ray</a></li>
                                     <li><a href="#">Ultrasound</a></li>
-                                    <li><a href="#">X-Ray</a></li>
+                                    <li><a href="#">X-Ray</a></li></li></li>
                                 </ul>
-                            </li>
-                            <li class="dropdown"><a href="#"><span>Medical Laboratory </span> <i class="bi bi-chevron-right"></i></a>
+                                <li class="dropdown"><a href="medlab.php"><span>Medical Laboratory </span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="#">Bacteriology</a></li>
+                                    <li><a href="medlab.php">Bacteriology</a></li>
                                     <li><a href="#">Clinical Chemistery</a></li>
                                     <li><a href="#">Clinical Microscopy</a></li>
                                     <li><a href="#">Drug Testing</a></li>
@@ -90,9 +88,13 @@
                                     <li><a href="#">Viral Antigen Test (VAT)</a></li>
                                 </ul>                       
                         </li>
-                            <li class="dropdown"><a href="#"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            </ul>
+                            
+                            </li>
+                            
+                            <li class="dropdown"><a href="rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="#">Cupping</a></li>
+                                    <li><a href="rehabmed.php">Cupping</a></li>
                                     <li><a href="#">Hydrocollator Packs</a></li>
                                     <li><a href="#">Muscular Taping</a></li>
                                     <li><a href="#">Tecar Theraphy</a></li>
@@ -100,8 +102,7 @@
                                     <li><a href="#">Therapeutic Exercises</a></li>
                                 </ul> 
                         </li>
-                            <li><a href="#">Family Planning Services</a>
-                            <li class="dropdown"><a href="#"><span>Impatient Services</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                 <li><a href="#">Emergency Services</a></li>
                                 <li><a href="#">Dietary Services</a></li>
