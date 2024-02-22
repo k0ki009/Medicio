@@ -38,8 +38,13 @@
                 <i class="bi bi-clock"></i> Open 24/7
             </div>
             <div class="d-flex align-items-center">
-                <i class="bi bi-phone"></i> Call us now (083) 887 9898
+                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 / 
+                <i class="bi bi-envelope-fill"></i> 
+                <a href="mailto:contactus@gensanmed.com">Email us</a>: contactus@gensanmed.com
             </div>
+
+
+
         </div>
     </div>
     <!-- End Top Bar -->
