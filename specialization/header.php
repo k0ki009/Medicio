@@ -58,7 +58,7 @@
                     <li><a class="nav-link scrollto" href="../index.php">Home</a></li>
                     <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-                            <li><a href="#">Director</a></li>
+                            <li><a href="leadership.php">Leadership</a></li>
                             <li><a href="#">Vision and Mission</a></li>
                         </ul>
                     </li>
@@ -116,6 +116,7 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
+                        <li><a href="rooms.php">Rooms and Accomodation</a></li>
                             <li><a href="../facilities/nursing.php">Nursing Station</a></li>
                             <li><a href="../facilities/emergency.php">Emergency Room (ER) </a></li>
                             <li><a href="../facilities/intensive.php">Intensive Care Unit (ICU) </a></li>

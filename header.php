@@ -38,9 +38,9 @@
                 <i class="bi bi-clock"></i> Open 24/7
             </div>
             <div class="d-flex align-items-center">
-                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 / 
-                <i class="bi bi-envelope-fill"></i> 
-                <a href="mailto:contactus@gensanmed.com">Email us</a>: contactus@gensanmed.com
+                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 |  
+                <i class="bi bi-envelope-fill"></i> Email us: 
+                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
             </div>
 
 
@@ -121,6 +121,7 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
+                            <li><a href="rooms.php">Rooms and Accomodation</a></li>
                             <li><a href="facilities/nursing.php">Nursing Station</a></li>
                             <li><a href="facilities/emergency.php">Emergency Room (ER) </a></li>
                             <li><a href="facilities/intensive.php">Intensive Care Unit (ICU) </a></li>
