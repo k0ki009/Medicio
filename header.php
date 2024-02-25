@@ -109,12 +109,11 @@
                         </li>
                             <li class="dropdown"><a href="famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                <li><a href="#">Emergency Services</a></li>
-                                <li><a href="#">Dietary Services</a></li>
-                                <li><a href="#">Neonatal Intensive Care Unit</a></li>
-                                <li><a href="#">Pharmacy Services</a></li>
-                                <li><a href="#">Pulmunary Care Services</a></li>
-                                <li><a href="#">Renal Dialysis Unit</a></li>
+                                <li><a href="family/emergencyserv.php">Emergency Services</a></li>
+                                <li><a href="family/diet.php">Dietary Services</a></li>
+                                <li><a href="family/neonatal.php">Neonatal Intensive Care Unit</a></li>
+                                <li><a href="family/pharmacy.php">Pharmacy Services</a></li>
+                                <li><a href="family/renal.php">Renal Dialysis Unit</a></li>
                             </ul> 
                         </li>
                         </ul>

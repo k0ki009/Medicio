@@ -71,12 +71,12 @@
                             <li class="dropdown"><a href="#">Outpatient & Diagnostic Services<i class="bi bi-chevron-right"></i></a>
                             <ul><li class="dropdown"><a href="../outpatient.php"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul class="scrollable-menu">
-                                    <li><a href="#">64 Slice CT Scan</a></li>
-                                    <li><a href="#">2d Echo</a></li>
-                                    <li><a href="#">ECG</a></li>
-                                    <li><a href="#">Mobile X-Ray</a></li>
-                                    <li><a href="#">Ultrasound</a></li>
-                                    <li><a href="#">X-Ray</a></li></li></li>
+                                    <li><a href="../radiology/64ct.php">64 Slice CT Scan</a></li>
+                                    <li><a href="../radiology/2d.php">2d Echo</a></li>
+                                    <li><a href="../radiology/ecg.php">ECG</a></li>
+                                    <li><a href="../radiology/mobile.php">Mobile X-Ray</a></li>
+                                    <li><a href="../radiology/ultra.php">Ultrasound</a></li>
+                                    <li><a href="../radiology/xray.php">X-Ray</a></li></li></li>
                                 </ul>
                                 <li class="dropdown"><a href="../medlab.php"><span>Medical Laboratory </span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
@@ -96,22 +96,21 @@
                             
                             <li class="dropdown"><a href="../rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                    <li><a href="../rehabmed.php">Cupping</a></li>
-                                    <li><a href="#">Hydrocollator Packs</a></li>
-                                    <li><a href="#">Muscular Taping</a></li>
-                                    <li><a href="#">Tecar Theraphy</a></li>
-                                    <li><a href="#">Tens and EMS</a></li>
-                                    <li><a href="#">Therapeutic Exercises</a></li>
+                                    <li><a href="../rehabilitation/cupping.php">Cupping</a></li>
+                                    <li><a href="../rehabilitation/hydro.php">Hydrocollator Packs</a></li>
+                                    <li><a href="../rehabilitation/muscular.php">Muscular Taping</a></li>
+                                    <li><a href="../rehabilitation/tecar.php">Tecar Theraphy</a></li>
+                                    <li><a href="../rehabilitation/tens.php">Tens and EMS</a></li>
+                                    <li><a href="../rehabilitation/thera.php">Therapeutic Exercises</a></li>
                                 </ul> 
                         </li>
                             <li class="dropdown"><a href="../famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                <li><a href="#">Emergency Services</a></li>
-                                <li><a href="#">Dietary Services</a></li>
-                                <li><a href="#">Neonatal Intensive Care Unit</a></li>
-                                <li><a href="#">Pharmacy Services</a></li>
-                                <li><a href="#">Pulmunary Care Services</a></li>
-                                <li><a href="#">Renal Dialysis Unit</a></li>
+                                <li><a href="../family/emergencyserv.php">Emergency Services</a></li>
+                                <li><a href="../family/diet.php">Dietary Services</a></li>
+                                <li><a href="../family/neonatal.php">Neonatal Intensive Care Unit</a></li>
+                                <li><a href="../family/pharmacy.php">Pharmacy Services</a></li>
+                                <li><a href="../family/renal.php">Renal Dialysis Unit</a></li>
                             </ul> 
                         </li>
                         </ul>

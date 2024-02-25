@@ -106,31 +106,30 @@
                         </li>
                             <li class="dropdown"><a href="../famplan.php">Family Planning and Impatient Services <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
-                                <li><a href="#">Emergency Services</a></li>
-                                <li><a href="#">Dietary Services</a></li>
-                                <li><a href="#">Neonatal Intensive Care Unit</a></li>
-                                <li><a href="#">Pharmacy Services</a></li>
-                                <li><a href="#">Pulmunary Care Services</a></li>
-                                <li><a href="#">Renal Dialysis Unit</a></li>
+                                <li><a href="../family/emergencyserv.php">Emergency Services</a></li>
+                                <li><a href="../family/diet.php">Dietary Services</a></li>
+                                <li><a href="../family/neonatal.php">Neonatal Intensive Care Unit</a></li>
+                                <li><a href="../family/pharmacy.php">Pharmacy Services</a></li>
+                                <li><a href="../family/renal.php">Renal Dialysis Unit</a></li>
                             </ul> 
                         </li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-                            <li><a href="nursing.php">Nursing Station</a></li>
-                            <li><a href="emergency.php">Emergency Room (ER) </a></li>
-                            <li><a href="intensive.php">Intensive Care Unit (ICU) </a></li>
-                            <li><a href="neonatal.php">Neonatal Intensive Care Unit (NICU) </a></li>
-                            <li><a href="operating.php">Operating & Delivery Room</a></li>
-                            <li><a href="medical.php">Medical Laboratory</a></li>
-                            <li><a href="imaging.php">Radiology & Imaging Sciences Facility</a></li>
-                            <li><a href="dietary.php">Dietary Department</a></li>
-                            <li><a href="rehab.php">Rehabilitation and Wellness Center </a></li>
-                            <li><a href="outpat.php">Outpatient Services</a></li>
-                            <li><a href="renal.php">Renal Dialysis Department </a></li>
-                            <li><a href="chapel.php">Chapel </a></li>
-                            <li><a href="islam.php">Islam Prayer Room </a></li>
+                            <li><a href="../facilities/nursing.php">Nursing Station</a></li>
+                            <li><a href="../facilities/emergency.php">Emergency Room (ER) </a></li>
+                            <li><a href="../facilities/intensive.php">Intensive Care Unit (ICU) </a></li>
+                            <li><a href="../facilities/neonatal.php">Neonatal Intensive Care Unit (NICU) </a></li>
+                            <li><a href="../facilities/operating.php">Operating & Delivery Room</a></li>
+                            <li><a href="../facilities/medical.php">Medical Laboratory</a></li>
+                            <li><a href="../facilities/imaging.php">Radiology & Imaging Sciences Facility</a></li>
+                            <li><a href="../facilities/dietary.php">Dietary Department</a></li>
+                            <li><a href="../facilities/rehab.php">Rehabilitation and Wellness Center </a></li>
+                            <li><a href="../facilities/outpat.php">Outpatient Services</a></li>
+                            <li><a href="../facilities/renal.php">Renal Dialysis Department </a></li>
+                            <li><a href="../facilities/chapel.php">Chapel </a></li>
+                            <li><a href="../facilities/islam.php">Islam Prayer Room </a></li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Specialization</span> <i class="bi bi-chevron-down"></i></a>
