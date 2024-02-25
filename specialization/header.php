@@ -38,7 +38,9 @@
                 <i class="bi bi-clock"></i> Open 24/7
             </div>
             <div class="d-flex align-items-center">
-                <i class="bi bi-phone"></i> Call us now (083) 887 9898
+                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 |  
+                <i class="bi bi-envelope-fill"></i> Email us: 
+                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
             </div>
         </div>
     </div>
@@ -148,7 +150,7 @@
                             <li><a href="pediatrics.php">Pediatrics</a></li>
                             <li><a href="pulmonology.php">Pulmonology</a></li>
                             <li><a href="radio.php">Radiology & Imaging Sciences</a></li>
-                            <li><a href="rehab.php">Rehabilitation Medicine</a></li>
+                            <li><a href="rehabilitation.php">Rehabilitation Medicine</a></li>
                             <li><a href="thoracic.php">Thoracic & Cardiovascular Surgery</a></li>
                             <li><a href="urology.php">Urology</a></li>
                         </ul>

@@ -38,7 +38,9 @@
                 <i class="bi bi-clock"></i> Open 24/7
             </div>
             <div class="d-flex align-items-center">
-                <i class="bi bi-phone"></i> Call us now (083) 887 9898
+                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 |  
+                <i class="bi bi-envelope-fill"></i> Email us: 
+                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
             </div>
         </div>
     </div>
@@ -127,7 +129,7 @@
                             <li><a href="rehab.php">Rehabilitation and Wellness Center </a></li>
                             <li><a href="outpat.php">Outpatient Services</a></li>
                             <li><a href="renal.php">Renal Dialysis Department </a></li>
-                            <li><a href="facilities/chapel.php">Chapel </a></li>
+                            <li><a href="chapel.php">Chapel </a></li>
                             <li><a href="islam.php">Islam Prayer Room </a></li>
                         </ul>
                     </li>

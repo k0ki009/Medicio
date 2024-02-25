@@ -55,30 +55,17 @@
   </style> -->
 </head>
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i>Open Open 24/7
-      </div>
-      <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now (083) 887 9898
-      </div>
-    </div>
-  </div>
-
 <!-- ======= Doctors Section ======= -->
 <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>SPECIALIZATIONS</h2>
+          <h2>Pathology & Laboratory Medicine</h2>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
-          <h5>Pathology & & Laboratory Medicine</h5>
+          <!-- <h5></h5> -->
             <img src="assets/img/64slice.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
