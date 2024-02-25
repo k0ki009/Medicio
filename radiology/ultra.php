@@ -55,7 +55,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/utrasound.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Experience precision and care with our cutting-edge ultrasound services at Gensan Medical Center. Our state-of-the-art technology, paired with the expertise of our skilled sonographers and radiologists, delivers detailed and accurate imaging for a wide range of medical needs. From monitoring pregnancies to diagnosing internal conditions, our ultrasound services offer non-invasive and reliable solutions tailored to your specific healthcare journey. We prioritize your comfort and well-being, ensuring each procedure is conducted with compassion and efficiency. At Gensan Medical Center, we understand the importance of timely diagnoses and personalized care, which is why we strive to exceed expectations in every ultrasound appointment. Trust in our commitment to excellence as we partner with you to achieve optimal health outcomes. Schedule your ultrasound appointment today and embark on a path towards clarity, confidence, and peace of mind. 

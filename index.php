@@ -7,7 +7,7 @@
   /* <!-- Add the following CSS styles to your existing CSS file or within a <style> tag in your HTML --> */
 
   /* Define animation keyframes */
-  @keyframes bounce {
+  /* @keyframes bounce {
     0% {
       transform: translateY(0);
     }
@@ -20,9 +20,34 @@
   }
 
   /* Apply animation to the icons */
-  .info-box i {
+  /* .info-box i {
     animation: bounce 3s infinite;
+  }  */
+  @keyframes circularMotion {
+  0% {
+    transform: rotate(0deg);
   }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.info-box {
+  text-align: center;
+}
+
+.icon-container {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 20px;
+  animation: circularMotion 5s linear infinite; /* Adjust the duration and timing function as needed */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 </style>
 </head>
@@ -55,7 +80,7 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/front.jpg)">
           <div class="container">
             <h2>Your Partner in Health and Wellness</h2>
             
@@ -240,14 +265,15 @@
 
         <div class="gallery-slider swiper">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/1.jpg"><img src="assets/img/atik/1.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/2.jpg"><img src="assets/img/atik/2.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/3.jpg"><img src="assets/img/atik/3.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/4.jpg"><img src="assets/img/atik/4.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/5.jpg"><img src="assets/img/atik/5.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/6.jpg"><img src="assets/img/atik/6.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/7.jpg"><img src="assets/img/atik/7.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/atik/8.jpg"><img src="assets/img/atik/8.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-5.jpg"><img src="assets/img/gallery/gallery-5.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-1.jpg"><img src="assets/img/gallery/gallery-1.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-2.jpg"><img src="assets/img/gallery/gallery-2.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-3.jpg"><img src="assets/img/gallery/gallery-3.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-4.jpg"><img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt=""></a></div>
+            
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-6.jpg"><img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" class="img-fluid" alt=""></a></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -712,27 +738,37 @@
   <div class="row mt-5">
     <div class="col-md-4">
       <div class="info-box">
-        <i class="bx bx-map"></i>
+        <div class="icon-container">
+          <div class="circle-animation"></div>
+          <i class="bx bx-map"></i>
+        </div>
         <h3>Our Address</h3>
         <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines</p>
       </div>
     </div>
     <div class="col-md-4">
       <div class="info-box">
-        <i class="bx bx-envelope"></i>
+        <div class="icon-container">
+          <div class="circle-animation"></div>
+          <i class="bx bx-envelope"></i>
+        </div>
         <h3>Email Us</h3>
         <p>contactus@gensanmed.com</p>
       </div>
     </div>
     <div class="col-md-4">
       <div class="info-box">
-        <i class="bx bx-phone-call"></i>
+        <div class="icon-container">
+          <div class="circle-animation"></div>
+          <i class="bx bx-phone-call"></i>
+        </div>
         <h3>Call Us</h3>
         <p>(083) 887 9898</p>
       </div>
     </div>
   </div>
 </div>
+
       </section>
 
       </main>

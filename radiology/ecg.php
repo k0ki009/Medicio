@@ -55,7 +55,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/ecg.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Experience peace of mind with our premier ECG services at Gensan Medical Center. Harnessing the latest in electrocardiography technology, we offer swift and accurate assessments of your heart's electrical activity. Our team of experienced cardiologists and technicians ensures precise results, providing valuable insights into your cardiac health. Whether you're seeking routine screenings or investigating specific symptoms, our ECG services are tailored to meet your needs with efficiency and care. We understand the importance of timely diagnosis and proactive management, which is why we prioritize accessibility and accuracy in every ECG procedure. Trust in our commitment to excellence as we work diligently to safeguard your heart health and well-being. At Gensan Medical Center, your cardiovascular health is our priority, and we're here to support you on your journey to a healthier heart. Take the first step towards cardiac wellness today by scheduling your ECG appointment with us.

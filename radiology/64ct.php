@@ -55,7 +55,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/ct-scan.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Experience precision and clarity like never before with our cutting-edge 64-slice CT scan at Gensan Medical Center. Unveiling a new era in diagnostic imaging, our state-of-the-art technology offers unparalleled detail and accuracy, ensuring your health is in the best hands possible. Trust in our expert team of radiologists and technicians who utilize this advanced equipment to provide swift diagnoses and personalized treatment plans. With faster scan times and enhanced image quality, we're committed to delivering results that exceed expectations, empowering you with the knowledge to make informed decisions about your health. At Gensan Medical Center, we prioritize your well-being, combining innovation with compassion to redefine healthcare standards. Discover the difference today and take the next step towards a healthier tomorrow. Your health journey starts here, with precision and care at every slice.
