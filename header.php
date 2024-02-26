@@ -38,10 +38,14 @@
                 <i class="bi bi-clock"></i> Open 24/7
             </div>
             <div class="d-flex align-items-center">
-                <i class="bi bi-telephone-fill"></i> Call us now: (083) 887 9898 |  
-                <i class="bi bi-envelope-fill"></i> Email us: 
-                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
+                <i class="bi bi-telephone-fill"></i> 
+                Call us now: &nbsp;
+                <a href="tel:+639985604326" style="color: white; text-decoration: underline">(0998) 560 4326</a> |  
+                <i class="bi bi-envelope-fill"></i> 
+                Email us: &nbsp;
+                <a href="mailto:contactus@gensanmed.com" style="color: white; text-decoration: underline">contactus@gensanmed.com</a> 
             </div>
+
 
 
 
@@ -52,10 +56,14 @@
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center">
-            <a href="index.php" class="logo me-auto">
-                <img src="assets/img/logo.jpg" alt="GENSAN MEDICAL CENTER">
-                <span>GENSAN MEDICAL CENTER</span>
-            </a>
+        <a href="index.php" class="logo me-auto">
+            <div style="display: flex; align-items: center;">
+                <img src="assets/img/logo.jpg" alt="GENSAN MEDICAL CENTER" style="max-width: 100px; height: auto;">
+                <img src="assets/img/logo/Caring_beyond_healing-.png" alt="GENSAN MEDICAL CENTER" style="max-width: 150px; height: auto;">
+                <span style="font-size: 1.5rem;">GENSAN MEDICAL CENTER</span>
+            </div>
+        </a>
+
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
             <nav id="navbar" class="navbar order-last order-lg-0">
@@ -65,14 +73,15 @@
                         <ul class="scrollable-menu">
                             <li><a href="leadership.php">Leadership</a></li>
                             <li><a href="#">Vision and Mission</a></li>
+                            <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="news.php">News</a></li>
-                    <li><a class="nav-link scrollto" href="doctors.php">Doctors</a></li>
+                    <li><a class="nav-link scrollto" href="doctors.php">Physicians</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li class="dropdown"><a href="#">Outpatient & Diagnostic Services<i class="bi bi-chevron-right"></i></a>
-                            <ul><li class="dropdown"><a href="outpatient.php"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
+                            <ul><li class="dropdown"><a href="#"><span>Radiology (Imaging)</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul class="scrollable-menu">
                                     <li><a href="radiology/64ct.php">64 Slice CT Scan</a></li>
                                     <li><a href="radiology/2d.php">2d Echo</a></li>
@@ -158,7 +167,7 @@
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
+                    
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
