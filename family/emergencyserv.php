@@ -66,7 +66,11 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
+<<<<<<< HEAD
             <img src="assets/img/emergency.jpg" class="img-fluid" alt="">
+=======
+            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+>>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">When every second counts, trust Gensan Medical Center's Emergency Services to be your beacon of hope. Our dedicated team of skilled healthcare professionals is on standby 24/7, armed with expertise, compassion, and cutting-edge technology to address any medical crisis with precision and care. From minor mishaps to life-threatening emergencies, our state-of-the-art facilities ensure swift assessment and treatment tailored to your needs. With a commitment to efficiency and excellence, we prioritize your well-being, aiming to get you back to health and safety as swiftly as possible. At Gensan Medical Center, your safety is paramount, and we're here to provide unwavering support and medical attention in your time of need. Trust in us for reliable emergency care that prioritizes your health and peace of mind. Know that in times of crisis, you're in the best hands at Gensan Medical Center's Emergency Services.

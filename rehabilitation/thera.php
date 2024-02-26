@@ -30,44 +30,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/doctors.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Medicio
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
-  <!-- <style>
-    /* Style for chatbot container */
-    #chatbot-container {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 300px;
-      height: 400px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      overflow: hidden;
-      z-index: 1000;
-    }
-  </style> -->
 </head>
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i>Open Open 24/7
-      </div>
-      <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now (083) 887 9898
-      </div>
-    </div>
-  </div>
-
 <!-- ======= Doctors Section ======= -->
 <section id="about" class="about">
       <div class="container" data-aos="fade-up">
