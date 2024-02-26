@@ -7,12 +7,12 @@
   /* <!-- Add the following CSS styles to your existing CSS file or within a <style> tag in your HTML --> */
 
   /* Define animation keyframes */
-  /* @keyframes bounce {
+  @keyframes bounce {
     0% {
       transform: translateY(0);
     }
     50% {
-      transform: translateY(-100px);
+      transform: translateY(-20px);
     }
     100% {
       transform: translateY(0);
@@ -20,10 +20,10 @@
   }
 
   /* Apply animation to the icons */
-  /* .info-box i {
+   .info-box i {
     animation: bounce 3s infinite;
-  }  */
-  @keyframes circularMotion {
+  } 
+  /* @keyframes circularMotion {
   0% {
     transform: rotate(0deg);
   }
@@ -42,11 +42,11 @@
   height: 100px;
   margin: 0 auto 20px;
   animation: circularMotion 5s linear infinite; /* Adjust the duration and timing function as needed */
-  border-radius: 50%;
+  /* border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */ */
 
 
 </style>
@@ -109,22 +109,41 @@
   <section id="counts" class="counts">
     <div class="container">
        <p><strong>Partner Companies:</strong> </p>
-        <div class="circle">
-            <img src="assets/img/TPP.png" height="90px" width="90px">
-            <img src="assets/img/DOH.png" height="80px" width="80px">
-            <img src="assets/img/UHC.png" height="80px" width="100px">
-            <img src="assets/img/Philhealth.png" height="70px" width="140px">
-            <img src="assets/img/PCSO.png" height="80px" width="80px">
-            <img src="assets/img/DSWD.png" height="100px" width="150px">
-            <img src="assets/img/maasim.jpg" height="90px" width="90px">
-            <img src="assets/img/amping.png" height="90px" width="90px">
-            <img src="assets/img/Pacific.png" height="80px" width="160px">
-            <!-- <img src="assets/img/MAXICARE.png" height="50px" width="130px"> -->
-            <!-- <img src="assets/img/MEDICAREPLUS.jpg" height="80px" width="120px"> -->
-            <!-- <img src="assets/img/PNB.png" height="50px" width="130px"> -->
-            <img src="assets/img/coop.png" height="90px" width="90px">
-            
-        </div>
+       <div class="image">
+       <div id="carousel" style="overflow-x: hidden; white-space: nowrap; width: 100%;">
+  <img src="assets/img/TPP.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/DOH.png" height="80px" width="80px" style="margin: 10px;">
+  <img src="assets/img/Philhealth.png" height="70px" width="150px" style="margin: 10px;">
+  <img src="assets/img/UHC.png" height="80px" width="100px" style="margin: 10px;">
+  <img src="assets/img/PCSO.png" height="80px" width="80px" style="margin: 10px;">
+  <img src="assets/img/DSWD.png" height="100px" width="150px" style="margin: 10px;">
+  <img src="assets/img/Labangal.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/sealcity.jpg" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/amping.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/konsulta.jpg" height="120px" width="170px" style="margin: 10px;">
+  <img src="assets/img/MAXICARE.png" height="50px" width="130px" style="margin: 10px;">
+  <img src="assets/img/intellicare.png" height="50px" width="130px" style="margin: 10px;">
+  <img src="assets/img/lifehealth.png" height="80px" width="160px" style="margin: 10px;">
+  <img src="assets/img/coop.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/amaphil.png" height="80px" width="160px" style="margin: 10px;">
+  <img src="assets/img/Pacific.png" height="80px" width="160px" style="margin: 10px;">
+  <img src="assets/img/cocolife.png" height="70px" width="190px" style="margin: 10px;">
+  <img src="assets/img/EastWest.png" height="70px" width="150px" style="margin: 10px;">
+  <img src="assets/img/avega.png" height="50px" width="180px" style="margin: 10px;">
+  <img src="assets/img/etiqa.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/benlife.png" height="70px" width="150px" style="margin: 10px;">
+  <img src="assets/img/Generali.png" height="100px" width="150px" style="margin: 10px;">
+  <img src="assets/img/kaiser.png" height="70px" width="230px" style="margin: 10px;">
+  <img src="assets/img/sarangani.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/maasim.jpg" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/malungon.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/TPP.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/alabel.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/malapatan.jpg" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/Glan.jpg" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/SOCO.png" height="90px" width="90px" style="margin: 10px;">
+  <img src="assets/img/Tupi.png" height="90px" width="90px" style="margin: 10px;">
+</div>
     </div>
     <br>
       <div class="container" data-aos="fade-up">
@@ -749,7 +768,7 @@
     <div class="col-md-4">
       <div class="info-box">
         <div class="icon-container">
-          <div class="circle-animation"></div>
+          <div class="jumping-animation"></div>
           <i class="bx bx-envelope"></i>
         </div>
         <h3>Email Us</h3>
@@ -764,6 +783,7 @@
         </div>
         <h3>Call Us</h3>
         <p>(083) 887 9898</p>
+        <p>(0998) 560 4326</p>
       </div>
     </div>
   </div>
@@ -779,7 +799,27 @@
   <!-- <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
 
+  <script>
+  const carousel = document.getElementById('carousel');
+  let scrollAmount = 0;
+  const scrollIncrement = 300;
+  const scrollSpeed = 50;
+  const intervalTime = 2000;
 
+  function scrollCarousel() {
+    scrollAmount += scrollIncrement;
+    if (scrollAmount >= carousel.scrollWidth - carousel.clientWidth) {
+      scrollAmount = 0;
+    }
+    carousel.scrollTo({
+      top: 0,
+      left: scrollAmount,
+      behavior: 'smooth'
+    });
+  }
+
+  setInterval(scrollCarousel, intervalTime);
+</script>
 </body>
 
 </html>

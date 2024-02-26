@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/out-patient.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Gensan Medical Center's Outpatient Facility offers convenient and comprehensive healthcare services for your non-emergency medical needs. With a focus on efficiency and accessibility, our facility provides timely consultations, diagnostic tests, and minor procedures to address a wide range of medical concerns. Staffed by experienced healthcare professionals, we prioritize patient comfort, safety, and satisfaction throughout your visit. From routine check-ups to specialized consultations, trust in Gensan Medical Center's Outpatient Facility for expert care that fits seamlessly into your busy schedule. Experience personalized attention and quality healthcare close to home at Gensan Medical Center's Outpatient Facility.
@@ -91,26 +91,7 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
-        
+   
 <?php include("footer.php") ?>
 </body>
 

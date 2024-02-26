@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/operating.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Operating & Delivery Room Complex is a beacon of safety and excellence for expectant mothers and surgical patients alike. Our state-of-the-art complex is equipped with advanced technology and staffed by skilled surgical and obstetric teams, ensuring the highest standards of care for both routine and complex procedures. From cesarean sections to emergency surgeries, we prioritize patient safety, comfort, and optimal outcomes. With dedicated labor and delivery suites alongside fully-equipped operating rooms, our complex offers seamless transitions between childbirth and surgical interventions. Trust in Gensan Medical Center's OR & Delivery Room Complex for expert care in a supportive and sterile environment, where the health and well-being of you and your baby are our top priorities.
@@ -90,25 +90,6 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
         
 <?php include("footer.php") ?>
 </body>

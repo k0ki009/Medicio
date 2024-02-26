@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/nursing.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Our Nursing Stations are the heart of compassionate care, where dedicated nurses provide round-the-clock attention to patients' needs. Equipped with state-of-the-art technology and staffed by highly skilled professionals, our Nursing Stations ensure prompt assistance, medication management, and vital monitoring. With a focus on patient comfort and safety, our nurses go above and beyond to deliver personalized care with warmth and empathy. Whether you're recovering from surgery or receiving treatment, trust in our Nursing Stations to be your steadfast support system, providing expert care and peace of mind throughout your medical journey. Experience the difference of genuine compassion and expertise at Gensan Medical Center's Nursing Stations.
@@ -91,26 +91,7 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
-        
+
 <?php include("footer.php") ?>
 </body>
 

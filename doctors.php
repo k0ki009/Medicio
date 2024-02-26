@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<?php include("header.php") ?>
+  <?php include("header.php") ?>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -30,29 +30,8 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/doctors.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Medicio
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
-  <!-- <style>
-    /* Style for chatbot container */
-    #chatbot-container {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 300px;
-      height: 400px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      overflow: hidden;
-      z-index: 1000;
-    }
-  </style> -->
 </head>
+
 <body>
 
   <!-- ======= Top Bar ======= -->
@@ -66,272 +45,94 @@
       </div>
     </div>
   </div>
-  <!-- chatbot -->
-  <!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;"> -->
-      <!-- Chatbot messages will be displayed here -->
-    <!-- </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
-<!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;">
-      Chatbot messages will be displayed here
-    </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
-<!-- ======= Doctors Section ======= -->
-<section id="doctors" class="doctors section-bg">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Our Doctors</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
+  <!-- ======= Doctors Section ======= -->
+  <section id="doctors" class="doctors section-bg">
+    <div class="container" data-aos="fade-up">
 
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-              </div>
-            </div>
-          </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-              </div>
-            </div>
-          </div>
-
-          
-
-        </div>
-
+      <div class="section-title">
+        <h2>Our Doctors</h2>
       </div>
-    </section>
-    <!-- End Doctors Section -->
 
-<!-- ======= Footer ======= -->
-<?php include("footer.php") ?>
+      <!-- Tabs -->
+      <ul class="nav nav-tabs" id="specializationTabs" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="cardiology-tab" data-bs-toggle="tab" data-bs-target="#cardiology" type="button" role="tab" aria-controls="cardiology" aria-selected="true">Cardiology</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="anesthesiology-tab" data-bs-toggle="tab" data-bs-target="#anesthesiology" type="button" role="tab" aria-controls="anesthesiology" aria-selected="false">Anesthesiology</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="neurosurgery-tab" data-bs-toggle="tab" data-bs-target="#neurosurgery" type="button" role="tab" aria-controls="neurosurgery" aria-selected="false">Neurosurgery</button>
+        </li>
+      </ul>
 
+      <!-- Tab Content -->
+      <div class="tab-content" id="specializationTabsContent"><br>
+        <!-- Cardiology Tab Pane -->
+        <div class="tab-pane fade show active" id="cardiology" role="tabpanel" aria-labelledby="cardiology-tab">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt="">
+             
+                </div>
+                <div class="member-info">
+                  <h4>Walter White</h4>
+                  <span>Chief Medical Officer</span>
+                </div>
+              </div>
+            </div>
+            <!-- Add more doctors for cardiology specialization here -->
+          </div>
+        </div>
+
+        <!-- Anesthesiology Tab Pane -->
+        <div class="tab-pane fade" id="anesthesiology" role="tabpanel" aria-labelledby="anesthesiology-tab">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt="">
+                
+                </div>
+                <div class="member-info">
+                  <h4>Sarah Jhonson</h4>
+                  <span>Anesthesiologist</span>
+                </div>
+              </div>
+            </div>
+            <!-- Add more doctors for anesthesiology specialization here -->
+          </div>
+        </div>
+
+        <!-- Neurosurgery Tab Pane -->
+        <div class="tab-pane fade" id="neurosurgery" role="tabpanel" aria-labelledby="neurosurgery-tab">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="300">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt="">
+              
+</div>
+<div class="member-info">
+<h4>William Anderson</h4>
+<span>Neurosurgeon</span>
+</div>
+</div>
+</div>
+<!-- Add more doctors for neurosurgery specialization here -->
+</div>
+</div>
+</div>
+</div>
+</section>
+  <!-- End Doctors Section -->
+  <!-- ======= Footer ======= -->
+  <?php include("footer.php") ?>
   <!-- <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
@@ -339,43 +140,7 @@
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
-
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
-  <!-- Chatbot JavaScript -->
-  <!-- <script>
-    // Function to send user message
-    function sendMessage() {
-      var userInput = document.getElementById('user-input').value;
-      displayUserMessage(userInput);
-      // Call a function to handle user input and get response from chatbot
-      // For example, you can use an API call to a chatbot service
-      // Replace the following line with your actual implementation
-      displayBotMessage("Hello! You typed: " + userInput);
-      document.getElementById('user-input').value = ''; // Clear input field after sending message
-    }
-
-    // Function to display user message
-    function displayUserMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var userMessageElement = document.createElement('div');
-      userMessageElement.innerText = "You: " + message;
-      chatbotMessages.appendChild(userMessageElement);
-    }
-
-    // Function to display bot message
-    function displayBotMessage(message) {
-      var chatbotMessages = document.getElementById('chatbot-messages');
-      var botMessageElement = document.createElement('div');
-      botMessageElement.innerText = "Bot: " + message;
-      chatbotMessages.appendChild(botMessageElement);
-    }
-  </script> -->
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
 </body>
-
 </html>

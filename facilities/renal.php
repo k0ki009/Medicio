@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/renal.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Gensan Medical Center's Renal Dialysis Facility provides life-saving treatment for patients with kidney disease. Equipped with state-of-the-art technology and staffed by experienced nephrology specialists and dialysis nurses, our facility offers compassionate care and support throughout your dialysis sessions. With a focus on safety, comfort, and optimal outcomes, we ensure meticulous monitoring and personalized treatment plans tailored to your needs. Trust in Gensan Medical Center's Renal Dialysis Facility for expert care that helps improve your quality of life and manage your kidney health with confidence. Experience peace of mind knowing you're in capable hands at our Renal Dialysis Facility.
@@ -90,26 +90,7 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
-        
+ 
 <?php include("footer.php") ?>
 </body>
 

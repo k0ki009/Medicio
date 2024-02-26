@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/emergency.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">At Gensan Medical Center, our Emergency Room is a beacon of hope, staffed by skilled professionals ready to provide urgent medical care 24/7. With state-of-the-art equipment and streamlined processes, we prioritize swift assessment and treatment for all patients. From minor injuries to life-threatening emergencies, our compassionate team ensures every patient receives expert care with compassion and efficiency. Trust in Gensan Medical Center's Emergency Room for reliable, prompt, and expert care when you need it most. Your health and well-being are our top priorities, and we're here to provide the support and medical attention you need in times of crisis.
@@ -91,26 +91,7 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
-        
+    
 <?php include("footer.php") ?>
 </body>
 

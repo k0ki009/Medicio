@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="../assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/chapel.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Gensan Medical Center's Roman Catholic Private Chapel offers a tranquil sanctuary for prayer and spiritual solace. Nestled within our hospital, the chapel provides a sacred space for patients, families, and staff to seek comfort, strength, and guidance in times of need. With beautiful decor and serene ambiance, it invites contemplation and reflection, fostering a sense of peace and renewal.  Our chapel welcomes all to connect with their faith and find solace amidst life's challenges. At Gensan Medical Center, we honor the spiritual well-being of all, providing a supportive environment for worship and prayer.
@@ -91,25 +91,6 @@
 
     
     </section>
-    <nav>
-        <ul class="pagination justify-content-center">
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          <li class="page-item active" aria-current="page">
-            <a class="page-link" href="#">1</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">2</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">3</a>
-          </li>
-          <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-          </li>
-        </ul>
-      </nav>
         
 <?php include("footer.php") ?>
 </body>
