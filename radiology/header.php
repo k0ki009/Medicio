@@ -39,19 +39,11 @@
             </div>
             <div class="d-flex align-items-center">
                 <i class="bi bi-telephone-fill"></i> 
-<<<<<<< HEAD
-                Call us now: 
-                <a href="tel:+639985604326">(0998) 560 4326</a> |  
-                <i class="bi bi-envelope-fill"></i> 
-                Email us: 
-                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
-=======
                 Call us now: &nbsp;
                 <a href="tel:+639985604326" style="color: white; text-decoration: underline">(0998) 560 4326</a> |  
                 <i class="bi bi-envelope-fill"></i> 
                 Email us: &nbsp;
                 <a href="mailto:contactus@gensanmed.com" style="color: white; text-decoration: underline">contactus@gensanmed.com</a> 
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
             </div>
 
 
@@ -137,10 +129,7 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-<<<<<<< HEAD
-=======
                             <li><a href="../facilities/rooms.php">Rooms and Accomodation</a></li>
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
                             <li><a href="../facilities/nursing.php">Nursing Station</a></li>
                             <li><a href="../facilities/emergency.php">Emergency Room (ER) </a></li>
                             <li><a href="../facilities/intensive.php">Intensive Care Unit (ICU) </a></li>

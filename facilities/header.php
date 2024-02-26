@@ -39,19 +39,11 @@
             </div>
             <div class="d-flex align-items-center">
                 <i class="bi bi-telephone-fill"></i> 
-<<<<<<< HEAD
-                Call us now: 
-                <a href="tel:+639985604326">(0998) 560 4326</a> |  
-                <i class="bi bi-envelope-fill"></i> 
-                Email us: 
-                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
-=======
                 Call us now: &nbsp;
                 <a href="tel:+639985604326" style="color: white; text-decoration: underline">(0998) 560 4326</a> |  
                 <i class="bi bi-envelope-fill"></i> 
                 Email us: &nbsp;
                 <a href="mailto:contactus@gensanmed.com" style="color: white; text-decoration: underline">contactus@gensanmed.com</a> 
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
             </div>
 
 
