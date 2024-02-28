@@ -31,14 +31,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/doctors.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Medicio
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
 </head>
 <body>
 <!-- ======= Doctors Section ======= -->
@@ -49,40 +41,35 @@
         </div>
 
         <div class="row">
-            <!-- Existing News Item -->
+            <?php
+            include 'conn.php';
+            $sql = "SELECT * FROM news";
+            $result = mysqli_query($conn, $sql);
+            if (mysqli_num_rows($result) > 0) {
+                while($row = mysqli_fetch_assoc($result)) {
+            ?>
             <div class="col-lg-6" data-aos="fade-up">
                 <div class="card mb-4">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img src="assets/img/departments-1.jpg" class="card-img" alt="News Image">
+                            <img src="admin/dist/news/<?php echo $row['image']; ?>" class="card-img" alt="News Image">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <p class="card-text">CHR to LGUs: Boost reproductive health educ to curb teen pregnancy</p>
-                                <a href="news_read.php" class="btn btn-primary">Read more &raquo;</a>
+                                <p class="card-text"><?php echo $row['title']; ?></p>
+                                <a href="news_read.php?id=<?php echo $row['id']; ?>" class="btn btn-primary">Read more &raquo;</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <!-- New News Item -->
-            <div class="col-lg-6" data-aos="fade-up">
-                <div class="card mb-4">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="assets/img/departments-2.jpg" class="card-img" alt="News Image">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <p class="card-text">Tobacco consumption declining worldwide: WHO</p>
-                                <a href="news_read.php" class="btn btn-primary">Read more &raquo;</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
+            <?php
+                }
+            } else {
+                echo "No news found";
+            }
+            mysqli_close($conn);
+            ?>
         </div>
         <!-- Pagination -->
       <nav>
