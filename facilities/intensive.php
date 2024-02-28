@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/icu.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">GensanMed’s Intensive Care Unit (ICU) is a sanctuary of specialized care, equipped with advanced technology and staffed by compassionate experts. Dedicated to the most critically ill patients, our ICU provides round-the-clock monitoring and life-saving interventions. With a focus on precision and personalized care, our team of specialists ensures every patient receives the highest level of medical attention and support. Trust in Gensan Medical Center's ICU for exceptional care in times of crisis, where your health and well-being are our utmost priority. Experience the difference of expert care and unwavering support at Gensan Medical Center's Intensive Care Unit.</div>

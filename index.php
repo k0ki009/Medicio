@@ -46,9 +46,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-} */ */
+} */ 
 
-/* @font-face {
+@font-face {
             font-family: 'Perfect Beloved';
             src: url('assets/scss/Perfect Beloved.otf') format('truetype');
 
@@ -57,7 +57,7 @@
         #hero h2 {
             font-family: 'Perfect Beloved', sans-serif; 
             font-size: 60px;
-        } */
+        }
 
         @font-face {
             font-family: 'TheHospital-eZ7De';
@@ -130,7 +130,7 @@
 
   <section id="counts" class="counts">
     <div class="container">
-       <p><strong>Partner Companies:</strong> </p>
+       <p><strong>Partners:</strong> </p>
        <div class="image">
        <div id="carousel" style="overflow-x: hidden; white-space: nowrap; width: 100%;">
   <img src="assets/img/TPP.png" height="90px" width="90px" style="margin: 10px;">
@@ -383,7 +383,7 @@
           <i class="bx bx-map"></i>
         </div>
         <h3>Our Address</h3>
-        <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines</p>
+        <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines, 9500</p>
       </div>
     </div>
     <div class="col-md-4">

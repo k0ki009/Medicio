@@ -66,11 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-<<<<<<< HEAD
             <img src="assets/img/atik/8.jpg" class="img-fluid" alt="">
-=======
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Welcome your little one into the world with the utmost care and expertise at Gensan Medical Center's Neonatal Intensive Care Unit (NICU). Our state-of-the-art facilities and compassionate team of neonatal specialists are dedicated to providing specialized medical care for newborns in critical condition. From premature births to complex medical needs, we offer comprehensive monitoring, advanced treatments, and round-the-clock support to ensure the best possible outcomes for our tiniest patients. With a focus on family-centered care, we strive to create a nurturing and comforting environment for both infants and their families during their stay. Trust in Gensan Medical Center for neonatal intensive care services that prioritize safety, expertise, and compassion. When your newborn needs extra support, you can rely on us to provide the highest level of care and attention they deserve.

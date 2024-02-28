@@ -39,14 +39,6 @@
             </div>
             <div class="d-flex align-items-center">
                 <i class="bi bi-telephone-fill"></i> 
-<<<<<<< HEAD
-                Call us now: 
-                <a href="tel:+639985604326">(0998) 560 4326</a> |  
-                <i class="bi bi-envelope-fill"></i> 
-                Email us: 
-                <a href="mailto:contactus@gensanmed.com">contactus@gensanmed.com</a> 
-            </div>
-=======
                 Call us now: &nbsp;
                 <a href="tel:+639985604326" style="color: white; text-decoration: underline">(0998) 560 4326</a> |  
                 <i class="bi bi-envelope-fill"></i> 
@@ -57,7 +49,6 @@
 
 
 
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
         </div>
     </div>
     <!-- End Top Bar -->
@@ -65,12 +56,6 @@
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center">
-<<<<<<< HEAD
-            <a href="index.php" class="logo me-auto">
-                <img src="assets/img/logo.jpg" alt="GENSAN MEDICAL CENTER">
-                <span>GENSAN MEDICAL CENTER</span>
-            </a>
-=======
         <a href="index.php" class="logo me-auto">
             <div style="display: flex; align-items: center;">
                 <img src="assets/img/logo.jpg" alt="GENSAN MEDICAL CENTER" style="max-width: 100px; height: auto;">
@@ -78,7 +63,6 @@
                 <span style="font-size: 1.5rem;">GENSAN MEDICAL CENTER</span>
             </div>
         </a>
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
             <nav id="navbar" class="navbar order-last order-lg-0">
@@ -88,18 +72,11 @@
                         <ul class="scrollable-menu">
                             <li><a href="#">Director</a></li>
                             <li><a href="#">Vision and Mission</a></li>
-<<<<<<< HEAD
-                        </ul>
-                    </li>
-                    <li><a class="nav-link scrollto" href="../news.php">News</a></li>
-                    <li><a class="nav-link scrollto" href="../doctors.php">Doctors</a></li>
-=======
                             <li><a class="nav-link scrollto" href="../gallery.php">Gallery</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="../news.php">News</a></li>
                     <li><a class="nav-link scrollto" href="../doctors.php">Physicians</a></li>
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li class="dropdown"><a href="#">Outpatient & Diagnostic Services<i class="bi bi-chevron-right"></i></a>
@@ -128,7 +105,7 @@
                             
                             </li>
                             
-                            <li class="dropdown"><a href="../rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                     <li><a href="../rehabilitation/cupping.php">Cupping</a></li>
                                     <li><a href="../rehabilitation/hydro.php">Hydrocollator Packs</a></li>
@@ -151,10 +128,7 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Facilities</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-<<<<<<< HEAD
-=======
                             <li><a href="../facilities/rooms.php">Rooms and Accomodation</a></li>
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
                             <li><a href="../facilities/nursing.php">Nursing Station</a></li>
                             <li><a href="../facilities/emergency.php">Emergency Room (ER) </a></li>
                             <li><a href="../facilities/intensive.php">Intensive Care Unit (ICU) </a></li>
@@ -192,11 +166,7 @@
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="../index.php">Contact</a></li>
-<<<<<<< HEAD
-                    <li><a class="nav-link scrollto" href="../gallery.php">Gallery</a></li>
-=======
                     
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->

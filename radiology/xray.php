@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/xray.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Step into clarity with our exceptional X-Ray services at Gensan Medical Center. Utilizing state-of-the-art technology and led by a team of skilled radiologists and technicians, we provide swift and accurate imaging solutions for a wide range of medical needs. From detecting fractures to diagnosing internal conditions, our X-Ray services offer comprehensive insights to guide your treatment journey. With a focus on precision and patient comfort, we ensure that every procedure is conducted with care and expertise. At Gensan Medical Center, we understand the importance of timely diagnoses and efficient healthcare delivery, which is why we prioritize accessibility and excellence in our X-Ray services. Trust in our commitment to your well-being as we strive to exceed your expectations and provide the clarity you need for better health outcomes. Schedule your X-Ray appointment today and experience the difference firsthand.

@@ -105,7 +105,7 @@
                             
                             </li>
                             
-                            <li class="dropdown"><a href="../rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                     <li><a href="../rehabilitation/cupping.php">Cupping</a></li>
                                     <li><a href="../rehabilitation/hydro.php">Hydrocollator Packs</a></li>

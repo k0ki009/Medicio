@@ -66,11 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-<<<<<<< HEAD
             <img src="assets/img/dialysis.JPG" class="img-fluid" alt="">
-=======
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Restore vitality and reclaim your quality of life with Gensan Medical Center's Renal Dialysis Services. Our advanced facilities and expert team of nephrologists and dialysis nurses are dedicated to providing compassionate care and support for patients with kidney disease. From hemodialysis to peritoneal dialysis, we offer state-of-the-art treatments tailored to meet your individual needs. With a focus on safety, comfort, and efficiency, we ensure that each dialysis session is conducted with precision and care. At Gensan Medical Center, we understand the importance of maintaining optimal kidney function and supporting your overall health and well-being. Trust in us for reliable renal dialysis services that prioritize your comfort, safety, and long-term wellness. Take the first step towards better kidney health and a brighter future by scheduling your dialysis appointment with Gensan Medical Center today.
