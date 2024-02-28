@@ -33,20 +33,7 @@
 </head>
 
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i>Open Open 24/7
-      </div>
-      <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now (083) 887 9898
-      </div>
-    </div>
-  </div>
-
-  <!-- ======= Doctors Section ======= -->
+ <!-- ======= Doctors Section ======= -->
   <section id="doctors" class="doctors section-bg">
     <div class="container" data-aos="fade-up">
 

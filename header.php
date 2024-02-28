@@ -72,7 +72,7 @@
                     <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
                             <li><a href="leadership.php">Leadership</a></li>
-                            <li><a href="#">Vision and Mission</a></li>
+                            <li><a href="mission.php">Vision and Mission</a></li>
                             <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
                             <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                         </ul>

@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Rehabilitation Medicine</title>
+  <title>Medicio Bootstrap Template - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -39,6 +39,20 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
+  <!-- <style>
+    /* Style for chatbot container */
+    #chatbot-container {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 300px;
+      height: 400px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      overflow: hidden;
+      z-index: 1000;
+    }
+  </style> -->
 </head>
 <body>
 <!-- ======= Doctors Section ======= -->
@@ -46,32 +60,19 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About Us</h2>
+          <h2>Nutrition & Dietetics Facility</h2>
           <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="assets/img/gmc1.jpg" class="img-fluid" alt="">
+          <!-- <h5></h5> -->
+            <img src="assets/img/64slice.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <p class="about" style="text-align: justify;">Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
-           recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
-           designed to cater to the diverse medical needs of the populace.</p> 
-           <p style="text-align: justify;">Situated in the heart of Barangay Calumpang, GensanMed extends its services beyond geographical boundaries, 
-              reaching out to the wider community of General Santos City and its surrounding areas. Committed to delivering
-              cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
-              From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
-              nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.</p>
-              <p style="text-align: justify;">Beyond its clinical prowess, Gensan Medical Center fosters wellness, promoting preventive
-                healthcare initiatives and community outreach programs. Through educational campaigns and 
-                health screenings, the hospital actively engages with the public, empowering individuals 
-                to take charge of their well-being and live healthier lives.</p>
-                <p style="text-align: justify;">At GensanMed, everyday patient is more than just a case; they are valued individuals deserving
-                  a personalized attention and care. Whether it’s routine check-up, a complex surgical procedure, 
-                  or emergency intervention, Gensan Medical Center stands a steadfast ally in the journey towards 
-                  health and healing, dedicated to serving the community with integrity, empathy, and unwavering 
-                  excellence.</p>
+          <p class="about" style="text-align: justify;">GensanMed’s Nutrition & Dietetics facility is dedicated to promoting health and wellness through personalized nutrition plans and expert guidance. Staffed by registered dietitians and nutritionists, our facility offers comprehensive nutrition assessments, meal planning, and dietary counseling tailored to individual needs and goals. Whether you're managing a chronic condition, seeking weight management support, or optimizing athletic performance, our team provides evidence-based recommendations to help you achieve your healthiest self. With a focus on education and empowerment, we guide you towards sustainable lifestyle changes for long-term health and vitality. Trust in Gensan Medical Center's Nutrition & Dietetics facility for expert nutritional guidance and support on your journey to optimal well-being.
         </div>
+        </div>
+        
         
             <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>
             <p class="fst-italic">
@@ -90,7 +91,7 @@
 
     
     </section>
-        
+ 
 <?php include("footer.php") ?>
 </body>
 
