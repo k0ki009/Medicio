@@ -66,11 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-<<<<<<< HEAD
             <img src="assets/img/pharmacy.jpg" class="img-fluid" alt="">
-=======
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Experience convenience and quality with Gensan Medical Center's Pharmacy Services. Our fully stocked pharmacy is committed to providing patients with the medications they need, quickly and efficiently. With a team of skilled pharmacists and staff, we offer personalized medication counseling, refill reminders, and medication management services to ensure your safety and well-being. Whether you're leaving the hospital or visiting our outpatient clinic, our pharmacy is here to serve you with compassion and professionalism. At Gensan Medical Center, we prioritize your health and convenience, offering a seamless pharmacy experience that puts your needs first. Trust in us for reliable medication access and expert guidance on your path to wellness. Visit our pharmacy today and discover the difference quality care and attention can make in your healthcare journey.

@@ -39,59 +39,8 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
-  <!-- <style>
-    /* Style for chatbot container */
-    #chatbot-container {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 300px;
-      height: 400px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      overflow: hidden;
-      z-index: 1000;
-    }
-  </style> -->
 </head>
 <body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-flex align-items-center fixed-top">
-    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i>Open Open 24/7
-      </div>
-      <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now (083) 887 9898
-      </div>
-    </div>
-  </div>
-  <!-- chatbot -->
-  <!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;"> -->
-      <!-- Chatbot messages will be displayed here -->
-    <!-- </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
-<!-- <div id="chatbot-container">
-    <div id="chatbot-title" style="background-color: #007bff; color: #fff; padding: 10px; text-align: center;">
-      Chatbot
-    </div>
-    <div id="chatbot-messages" style="padding: 10px; height: 300px; overflow-y: scroll;">
-      Chatbot messages will be displayed here
-    </div>
-    <div id="chatbot-input" style="padding: 10px;">
-      <input type="text" id="user-input" placeholder="Type your message...">
-      <button onclick="sendMessage()">Send</button>
-    </div>
-  </div> -->
 <!-- ======= Doctors Section ======= -->
 <section id="doctors" class="doctors section-bg">
     <div class="container" data-aos="fade-up">

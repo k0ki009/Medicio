@@ -46,9 +46,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-} */ */
+} */ 
 
-/* @font-face {
+@font-face {
             font-family: 'Perfect Beloved';
             src: url('assets/scss/Perfect Beloved.otf') format('truetype');
 
@@ -57,7 +57,7 @@
         #hero h2 {
             font-family: 'Perfect Beloved', sans-serif; 
             font-size: 60px;
-        } */
+        }
 
         @font-face {
             font-family: 'TheHospital-eZ7De';
@@ -130,7 +130,7 @@
 
   <section id="counts" class="counts">
     <div class="container">
-       <p><strong>Partner Companies:</strong> </p>
+       <p><strong>Partners:</strong> </p>
        <div class="image">
        <div id="carousel" style="overflow-x: hidden; white-space: nowrap; width: 100%;">
   <img src="assets/img/TPP.png" height="90px" width="90px" style="margin: 10px;">
@@ -361,6 +361,36 @@
     </div>
   </div>
 </section>
+<section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About Us</h2>
+          <!-- <p>Muisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+        </div>
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-right">
+            <img src="assets/img/gmc1.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+          <p class="about" style="text-align: justify;">Gensan Medical Center (GensanMed) stands as a beacon of healthcare excellence in General Santos City,
+           recognized and accredited by the Department of Health and PhilHealth. As a Level II Tertiary hospital, it is meticulously 
+           designed to cater to the diverse medical needs of the populace.</p> 
+           <p style="text-align: justify;">Situated in the heart of Barangay Calumpang, GensanMed extends its services beyond geographical boundaries, 
+              reaching out to the wider community of General Santos City and its surrounding areas. Committed to delivering
+              cutting-edge medical care, GensanMed prides itself on its state-of-the-art facilities and advanced medical technologies. 
+              From diagnostic tools to treatment modalities, the hospital ensures that patients receive the highest physicians, 
+              nurses, social workers, and support staff, GensanMed is poised to address a myriad of medical conditions with expertise and compassion.</p>
+              <a href="aboutus.php">Read more &raquo;</a>
+        </div>
+            <p class="about">
+              
+            </p>
+          </div>
+        </div>
+
+    
+    </section>
 
    <div class="contact-container">
   <section id="contact" class="contact">
@@ -383,7 +413,7 @@
           <i class="bx bx-map"></i>
         </div>
         <h3>Our Address</h3>
-        <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines</p>
+        <p>National Highway, Purok Veterans, Barangay Calumpang, General Santos City, Philippines, 9500</p>
       </div>
     </div>
     <div class="col-md-4">

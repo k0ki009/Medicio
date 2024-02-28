@@ -70,9 +70,10 @@
                     <li><a class="nav-link scrollto" href="../index.php">Home</a></li>
                     <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
-                            <li><a href="#">Director</a></li>
+                            <li><a href="../leadership.php">Leadership</a></li>
                             <li><a href="#">Vision and Mission</a></li>
                             <li><a class="nav-link scrollto" href="../gallery.php">Gallery</a></li>
+                            <li><a class="nav-link scrollto" href="../index.php">Contact</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="../news.php">News</a></li>
@@ -105,7 +106,7 @@
                             
                             </li>
                             
-                            <li class="dropdown"><a href="../rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                     <li><a href="../rehabilitation/cupping.php">Cupping</a></li>
                                     <li><a href="../rehabilitation/hydro.php">Hydrocollator Packs</a></li>

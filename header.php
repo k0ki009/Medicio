@@ -60,7 +60,7 @@
             <div style="display: flex; align-items: center;">
                 <img src="assets/img/logo.jpg" alt="GENSAN MEDICAL CENTER" style="max-width: 100px; height: auto;">
                 <img src="assets/img/logo/Caring_beyond_healing-.png" alt="GENSAN MEDICAL CENTER" style="max-width: 150px; height: auto;">
-                <span style="font-size: 1.5rem;">GENSAN MEDICAL CENTER</span>
+                <span style="font-size: 1.5rem; text-align: center;">GENSAN MEDICAL CENTER</span>
             </div>
         </a>
 
@@ -72,8 +72,9 @@
                     <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                         <ul class="scrollable-menu">
                             <li><a href="leadership.php">Leadership</a></li>
-                            <li><a href="#">Vision and Mission</a></li>
+                            <li><a href="mission.php">Vision and Mission</a></li>
                             <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
+                            <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="news.php">News</a></li>
@@ -106,7 +107,7 @@
                             
                             </li>
                             
-                            <li class="dropdown"><a href="rehabmed.php"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#"><span>Rehabilitation Medicine</span> <i class="bi bi-chevron-right"></i></a>
                             <ul class="scrollable-menu">
                                     <li><a href="rehabilitation/cupping.php">Cupping</a></li>
                                     <li><a href="rehabilitation/hydro.php">Hydrocollator Packs</a></li>
@@ -166,7 +167,6 @@
                             <li><a href="specialization/urology.php">Urology</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                     
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>

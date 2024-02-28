@@ -66,11 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-<<<<<<< HEAD
             <img src="assets/img/dietary.jpg" class="img-fluid" alt="">
-=======
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
->>>>>>> 0830332172665289622dcf4f53f3ba0123c5d022
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">Elevate your health with personalized dietary services at Gensan Medical Center. Our team of registered dietitians and nutrition experts are here to empower you on your wellness journey, providing tailored guidance and support to meet your unique nutritional needs. Whether you're managing a chronic condition, striving for weight loss, or simply aiming to optimize your health, we offer comprehensive assessments and personalized meal plans designed to fuel your body and nourish your soul. With a focus on education, empowerment, and sustainable lifestyle changes, we're committed to helping you achieve your health goals and thrive. Trust in Gensan Medical Center for expert dietary services that prioritize your well-being and long-term vitality. Schedule your consultation today and take the first step towards a healthier, happier you.

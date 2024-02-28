@@ -39,20 +39,6 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 
-  <!-- <style>
-    /* Style for chatbot container */
-    #chatbot-container {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 300px;
-      height: 400px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      overflow: hidden;
-      z-index: 1000;
-    }
-  </style> -->
 </head>
 <body>
 <!-- ======= Doctors Section ======= -->

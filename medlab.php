@@ -85,15 +85,6 @@
         </div>
         
         
-            <!-- <h3>Situated in the heart of Barangay Calumpang,</h3>
-            <p class="fst-italic">
-            GensanMed extends its services beyond geographical boundaries, reaching out to the wider community of General Santos City and its surrounding areas.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Committed to delivering cutting-edge medical care.</li>
-              <li><i class="bi bi-check-circle"></i> Promoting preventive healthcare initiatives and community outreach programs.</li>
-              <li><i class="bi bi-check-circle"></i> At GensanMed, everyday patient is more than just a case; they are valued individuals deserving a personalized attention and care.</li>
-            </ul> -->
             <p class="about">
               
             </p>

@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
           <!-- <h5></h5> -->
-            <img src="assets/img/64slice.png" class="img-fluid" alt="">
+            <img src="assets/img/lab.JPG" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
           <p class="about" style="text-align: justify;">GensanMed’s Medical Laboratory is a cornerstone of precision diagnostics and comprehensive healthcare. Equipped with cutting-edge technology and staffed by expert laboratory professionals, our facility delivers accurate and timely test results for a wide range of medical conditions. From routine blood tests to specialized genetic analyses, we prioritize accuracy, efficiency, and patient satisfaction. With stringent quality control measures and a commitment to excellence, our laboratory ensures reliable results that guide medical decisions and improve patient outcomes. Trust in Gensan Medical Center's Medical Laboratory for expert diagnostics and personalized care, where your health and well-being are our top priorities.
